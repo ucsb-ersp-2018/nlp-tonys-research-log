@@ -5,19 +5,37 @@
 * Go to all meetings!
   - [ ] Attend Yu Xiang's SMLRG seminar
   - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [x] Attend Professor William Wang's NLP research group meeting
 * Create and update research log
   - [x] Set up log and read previous examples
   - [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learn about ML / NLP fundamentals
   - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
+<h3>October 3rd, Wednesday (1 hour)</h3>
+- [x] Attended William Wang's NLP research group meeting
+- [ ] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+
+#### Key Takeaways from "A Beginner's Guide to GANs"
+<ul>
+  <li>Relationship b/w generator and discriminator is like actor-critic / forger-cop</li>
+  <li>Given a set of features, the discriminator predicts the label, aka p(y|x) where y is the label and x are the features </li>
+  <li>Vice versa for generator: given a label or D-dimensional noise vector, it attempts to predict the features and attempts to trick the discriminator into thinking that the output of the generator is from the real training set</li>
+  <li>This escalates until the generator produces items that are indistinguishable from the real training set, and the discriminator outputs 0.5 probability of being real for each item</li>
+</ul>
+<p><img src="C:\Users\Tony\Pictures\Screenshots\GAN_Network.png" alt="Source: Skymind" title="GAN Framework" /></p>
+
+#### Things to Work On:
+ - What is a standard convolutional network, and how does it differ from an inverse convolutional network?
+ - Get a deeper understanding of an autoencoder and a variational autoencoder
+ - Understand ML code
+
 ### October 2nd, Tuesday (2.5 hours)
 - [x] Set up log
 - [x] ERSP Initial Thoughts
 - [x] Log Reflection
 - [x] Read Miranda's and Adrian's log
-- [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/) (seems like HTML for Github)
+- [x] Learn about [Github Markdown](https://github.github.com/gfm/) (seems like HTML for Github)
 
 #### ERSP Initial Thoughts
 > What are you most excited about in ERSP, and why?
