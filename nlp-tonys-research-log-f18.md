@@ -12,18 +12,18 @@
 * Learn about ML / NLP fundamentals
   - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-<h3>October 3rd, Wednesday (1 hour)</h3>
+### October 3rd, Wednesday (1 hour)
 - [x] Attended William Wang's NLP research group meeting
-- [ ] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+- [x] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
 
 #### Key Takeaways from "A Beginner's Guide to GANs"
-<ul>
-  <li>Relationship b/w generator and discriminator is like actor-critic / forger-cop</li>
-  <li>Given a set of features, the discriminator predicts the label, aka p(y|x) where y is the label and x are the features </li>
-  <li>Vice versa for generator: given a label or D-dimensional noise vector, it attempts to predict the features and attempts to trick the discriminator into thinking that the output of the generator is from the real training set</li>
-  <li>This escalates until the generator produces items that are indistinguishable from the real training set, and the discriminator outputs 0.5 probability of being real for each item</li>
-</ul>
-<p><img src="C:\Users\Tony\Pictures\Screenshots\GAN_Network.png" alt="Source: Skymind" title="GAN Framework" /></p>
+ * Relationship b/w generator and discriminator is like actor-critic / forger-cop
+ * Given a set of features, the discriminator predicts the label, aka p(y|x) where y is the label and x are the features
+ * Vice versa for generator: given a label or D-dimensional noise vector, it attempts to predict the features and attempts to trick the discriminator into thinking that the output of the generator is from the real training set
+ * This escalates until the generator produces items that are indistinguishable from the real training set, and the discriminator outputs 0.5 probability of being real for each item
+ 
+![alt text][GAN_Network.png "GAN Framework"]
+GAN_Framework: C:\Users\Tony\Pictures\Screenshots
 
 #### Things to Work On:
  - What is a standard convolutional network, and how does it differ from an inverse convolutional network?
