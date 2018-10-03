@@ -22,8 +22,7 @@
  * Vice versa for generator: given a label or D-dimensional noise vector, it attempts to predict the features and attempts to trick the discriminator into thinking that the output of the generator is from the real training set
  * This escalates until the generator produces items that are indistinguishable from the real training set, and the discriminator outputs 0.5 probability of being real for each item
  
-![alt text][GAN_Network.png "GAN Framework"]
-GAN_Framework: C:\Users\Tony\Pictures\Screenshots
+![GAN Framework](images/GAN_Framework.png)
 
 #### Things to Work On:
  - What is a standard convolutional network, and how does it differ from an inverse convolutional network?
