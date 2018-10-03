@@ -15,6 +15,7 @@
 ### October 3rd, Wednesday (1 hour)
 - [x] Attended William Wang's NLP research group meeting
 - [x] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+- [x] Learned how to [upload local images for GFM](https://www.youtube.com/watch?v=nvPOUdz5PL4)
 
 #### Key Takeaways from "A Beginner's Guide to GANs"
  * Relationship b/w generator and discriminator is like actor-critic / forger-cop
@@ -22,7 +23,7 @@
  * Vice versa for generator: given a label or D-dimensional noise vector, it attempts to predict the features and attempts to trick the discriminator into thinking that the output of the generator is from the real training set
  * This escalates until the generator produces items that are indistinguishable from the real training set, and the discriminator outputs 0.5 probability of being real for each item
  
-![GAN Framework](images/GAN_Framework.png)
+![gan_framework](https://user-images.githubusercontent.com/36688734/46435398-1bd03e00-c70b-11e8-9380-ecad610ef2e4.png)
 
 #### Things to Work On:
  - What is a standard convolutional network, and how does it differ from an inverse convolutional network?
