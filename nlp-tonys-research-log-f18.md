@@ -3,14 +3,21 @@
 ## Week 1 (09/27-10/3)
 ### Weekly Goals:
 * Go to all meetings!
+  - [ ] Attend Yu Xiang's SMLRG seminar
+  - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting
 * Create and update research log
+  - [x] Set up log and read previous examples
+  - [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learn about ML / NLP fundamentals
+  - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-### October 2nd, Tuesday (2 hours)
+### October 2nd, Tuesday (2.5 hours)
 - [x] Set up log
 - [x] ERSP Initial Thoughts
-- [ ] Log Reflection
-- [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+- [x] Log Reflection
+- [x] Read Miranda's and Adrian's log
+- [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/) (seems like HTML for Github)
 
 #### ERSP Initial Thoughts
 > What are you most excited about in ERSP, and why?
