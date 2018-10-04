@@ -12,10 +12,11 @@
 * Learn about ML / NLP fundamentals
   - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-### October 3rd, Wednesday (1 hour)
+### October 3rd, Wednesday (1.5 hours)
 - [x] Attended William Wang's NLP research group meeting
 - [x] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
 - [x] Learned how to [upload local images for GFM](https://www.youtube.com/watch?v=nvPOUdz5PL4)
+- [x] Created and set up Slack channel for team communication
 
 #### Key Takeaways from "A Beginner's Guide to GANs"
  * Relationship b/w generator and discriminator is like actor-critic / forger-cop
