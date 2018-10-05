@@ -7,10 +7,26 @@
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
 * Learn about ML / NLP fundamentals
-  - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [ ] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-### October 3rd, Wednesday (0.5 hours)
-  - [x] Read [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
+### October 5th, Friday (1.5 hours)
+ - [x] Watch 1.1 - 2.2 of [Dan Jurafsky's on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
+ 
+#### Key Takeaways from 1.1 (Course Intro), 2.1 (Regular Expressions), and 2.2 (Regular Expressions in Practical NLP)
+ * NLP is useful for solving problems like task answering, information extraction, sentiment analysis, and machine translation
+ * Ambiguity makes NLP hard ("Crash Blossoms")
+   * E.g. 1: Red Tape Holds Up New Bridges is an actual title of a news article, but "Holds Up" refers to a delay rather than physically holding up the bridge
+   * E.g. 2: Fed raises interest rates 0.5%, humans clearly understand that the interest rate is rising, but a parser might interepret "raises" or even "rates" as the verb
+ * Things that make NLP hard: non-standard English, segmentation issues, idioms, neologisms, world knowledge, and tricky entity names
+ * Regular expressions are a formal language for specifying text strings
+   * Use disjunctions to narrow down your search
+   * E.g. ((\+\+?)?[0-9]{2-4}\.)?[0-9]{2,4}\.[0-9]{3,4}\.[0-9]{3,5} is a regular expression that captures phone numbers
+     * ((\+\+?)?[0-9]{2-4}\.)? represents an optional area code
+     * [0-9]{2,4}\.[0-9]{3,4}\.[0-9]{3,5} represents the standard phone number separated by some character
+ * Full notes [here](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing), formatting idea from [Cynthia's reading notes](https://docs.google.com/document/d/1joi0W6lgbNccDmH9SjlzKFVs1GzOCykV9FxEBf8ysfs/edit)
+
+### October 4th, Thursday (0.5 hours)
+ - [x] Read [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
 
 #### Key Takeaways from "How to Read an Engineering Research Paper"
  * The motivation for a research paper is two-fold: it solves a problem that exists in the world, and it approaches / solves the problem in a way that has not been done yet
@@ -28,7 +44,7 @@
   - [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learn about ML / NLP fundamentals
   - [x] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
-  - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [ ] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### October 3rd, Wednesday (1.5 hours)
 - [x] Attended William Wang's NLP research group meeting
