@@ -1,15 +1,33 @@
 # Tony's Research Log :alien::punch:
 
-## Week 1 (09/27-10/3)
+## Week 2 (10/4-10/10)
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend Yu Xiang's SMLRG seminar
   - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting
+* Learn about ML / NLP fundamentals
+  - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+### October 3rd, Wednesday (0.5 hours)
+  - [x] Read [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
+
+#### Key Takeaways from "How to Read an Engineering Research Paper"
+ * The motivation for a research paper is two-fold: it solves a problem that exists in the world, and it approaches / solves the problem in a way that has not been done yet
+ * The body of the paper will usually provide the details of the proposed solution and the author's analysis of the given idea, which includes contributions, future directions, and unanswered questions
+ * Griswold provides a [cheat sheet](http://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf) of questions to answer as you read through a given research paper
+
+## Week 1 (09/27-10/3)
+### Weekly Goals:
+* Go to all meetings!
+  - [x] Attend Yu Xiang's SMLRG seminar
+  - [x] Attend both of the research methods lecture with Professor Mirza
   - [x] Attend Professor William Wang's NLP research group meeting
 * Create and update research log
   - [x] Set up log and read previous examples
   - [x] Learn about [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * Learn about ML / NLP fundamentals
+  - [x] Read [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
   - [ ] Watch 3Blue1 Brown's [video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 ### October 3rd, Wednesday (1.5 hours)
