@@ -10,8 +10,13 @@ ___
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend lab meeting
 * Learn about ML / NLP fundamentals
-  - [ ] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
+
+### October 6th, Saturday (1.5 hours)
+ - [x] Review yesterday's [notes on NLP](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
+ - [x] Watch 4.1 - 4.2 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
+ - [x] Finished [3B1B's series on Neural Networks]((https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) -- watched backpropagation calculus, had watched the other videos previously
 
 ### October 5th, Friday (3.5 hours)
  - [x] Watch 1.1 - 2.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
