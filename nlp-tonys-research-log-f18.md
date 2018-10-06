@@ -1,4 +1,6 @@
-# Tony's Research Log :alien::punch:
+# Tony's Research Log :octocat:
+
+___
 
 ## Week 2 (10/4-10/10)
 ### Weekly Goals:
@@ -8,10 +10,13 @@
   - [ ] Attend Professor William Wang's NLP research group meeting
 * Learn about ML / NLP fundamentals
   - [ ] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+  - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
 
-### October 5th, Friday (1.5 hours)
- - [x] Watch 1.1 - 2.2 of [Dan Jurafsky's on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
+### October 5th, Friday (3.5 hours)
+ - [x] Watch 1.1 - 2.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
  
+Full notes [here](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing), formatting idea from [Cynthia's reading notes](https://docs.google.com/document/d/1joi0W6lgbNccDmH9SjlzKFVs1GzOCykV9FxEBf8ysfs/edit)
+
 #### Key Takeaways from 1.1 (Course Intro), 2.1 (Regular Expressions), and 2.2 (Regular Expressions in Practical NLP)
  * NLP is useful for solving problems like task answering, information extraction, sentiment analysis, and machine translation
  * Ambiguity makes NLP hard ("Crash Blossoms")
@@ -23,15 +28,35 @@
    * E.g. ((\+\+?)?[0-9]{2-4}\.)?[0-9]{2,4}\.[0-9]{3,4}\.[0-9]{3,5} is a regular expression that captures phone numbers
      * ((\+\+?)?[0-9]{2-4}\.)? represents an optional area code
      * [0-9]{2,4}\.[0-9]{3,4}\.[0-9]{3,5} represents the standard phone number separated by some character
- * Full notes [here](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing), formatting idea from [Cynthia's reading notes](https://docs.google.com/document/d/1joi0W6lgbNccDmH9SjlzKFVs1GzOCykV9FxEBf8ysfs/edit)
+
+#### Key Takeaways from 2.3 (Word Tokenization), 2.4 (Word Normalization and Stemming), and 2.5 (Sentence Segmentation and Decision Trees)
+ * NLP tasks involve text normalization, which is comprised of segmenting/tokenizing words in running text, normalizing word formats, and segmenting sentences in running text
+ * Type: an element of the vocabulary; Token: an instance of that type in running text
+   * Church and Gale (1990) suggested that |V| > O(N1/2), where N denotes number of tokens and V denotes vocabulary / set of types
+ * Word segmentation can be done through an algorithm called Maximum Matching
+   * This method does not work well for English but actually performs pretty well for Chinese because words in Chinese have pretty consistent character length
+ * Methods of word normalization include case folding, lemmatization, and stemming, which have applications in information retrieval
+ * Decision trees (basically a flowchart / a series of if-else statements)have applications in sentence segmentation
+   * Features in a decision tree can be applied to other classifiers like SVM, neural nets, logistic regression
+
+ #### Things to Work On:
+ - What is a standard convolutional network, and how does it differ from an inverse convolutional network?
+ - Get a deeper understanding of an autoencoder and a variational autoencoder
+ - Understand ML code
+ - Using terminal commands to parse through text files
+ - Review notes
+ - Understand SVM, neural nets, logistic regression
 
 ### October 4th, Thursday (0.5 hours)
  - [x] Read [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
+ - [x] Attended group meeting with Mai and team
 
 #### Key Takeaways from "How to Read an Engineering Research Paper"
  * The motivation for a research paper is two-fold: it solves a problem that exists in the world, and it approaches / solves the problem in a way that has not been done yet
  * The body of the paper will usually provide the details of the proposed solution and the author's analysis of the given idea, which includes contributions, future directions, and unanswered questions
  * Griswold provides a [cheat sheet](http://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf) of questions to answer as you read through a given research paper
+
+___
 
 ## Week 1 (09/27-10/3)
 ### Weekly Goals:
