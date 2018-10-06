@@ -8,6 +8,7 @@ ___
   - [ ] Attend Yu Xiang's SMLRG seminar
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
+  - [ ] Attend lab meeting
 * Learn about ML / NLP fundamentals
   - [ ] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
