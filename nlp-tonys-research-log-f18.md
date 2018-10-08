@@ -45,7 +45,7 @@ ___
  * However, they correct for overfitting, a common flaw of decision trees
    * Average multiple deep decision trees, which reduces variance but increases bias
 
-#### Key Takeaways from Word2Vec
+#### Key Takeaways from [Word2Vec](https://skymind.ai/wiki/word2vec)
  * Two-layer neural network that takes in text corpus and outputs a vocabulary comprised of a set of vectors (labels / features) that comprise a vector space
    * Can be applied to any discrete object, such as genes, likes, and playlists
  * Neural Word Embeddings are vectors that are made up of numbers that correspond to the features of words, such as context, gender, or distance
@@ -57,9 +57,7 @@ ___
      * A n-gram but with dropped items, has shown to be more accurate than the CBOW model
 > When the feature vector assigned to a word cannot be used to accurately predict that word’s context, the components of the vector are adjusted. Each word’s context in the corpus is the teacher sending error signals back to adjust the feature vector. The vectors of words judged similar by their context are nudged closer together by adjusting the numbers in the vector.
 
-Word2Vec, skip-gram model
-![Word2Vec, skip-gram model](https://cdn-images-1.medium.com/max/1600/0*FTfdlZ7yDBoQ8c9W.png)
-Word Embeddings
+Word Embeddings Visualized, Word2Vec (skip-gram model)
 ![Word Embeddings](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/06/06062705/Word-Vectors.png)
 
 ### October 6th, Saturday (1.5 hours)
