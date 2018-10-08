@@ -13,6 +13,23 @@ ___
   - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
 
+### October 7th, Sunday (1.5 hours)
+ - [x] Read part of [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+ - [x] Read article on [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
+ 
+#### Key Takeaways from [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
+ * DL is a subset of ML which is a subset of AI
+ * Artificial Intelligence: programming computers to perform intelligent tasks
+   * Can be as simple as a series of if-else statements, otherwise known as expert systems or knowledge graphs
+   * John McCarthy is the father of AI
+ * Machine Learning: dynamic programs that can modify themselves without human intervention when exposed to more data
+   * Might be done by minimizing a loss / error function or maximizing an objective function, is basically an optimization function
+   * Pioneer Arthur Samuel used ML to create a checkers program that could play better than he could
+ * Deep Learning: can refer either deep artificial neural networks or deep reinforcement learning
+   * Deep neural networks contain more than one hidden layer, which allows it to form more complex features
+   * Require better hardware (GPU), more training data and time, and more overall computational intensity, but results in higher accuracy
+   * DeepMind's AlphaGo algorithm is a well-known application of deep learning
+
 ### October 6th, Saturday (1.5 hours)
  - [x] Review yesterday's [notes on NLP](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
  - [x] Watch 4.1 - 4.2 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
