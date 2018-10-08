@@ -21,11 +21,12 @@ ___
   - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
 
-### October 7th, Sunday (3 hours)
+### October 7th, Sunday (3.5 hours)
  - [x] Read part of [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
  - [x] Read article on [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
  - [x] Read about Random Forest [here](https://skymind.ai/wiki/random-forest) and [here](https://en.wikipedia.org/wiki/Random_forest)
  - [x] Read [A Beginner's Quide to Word2Vec and Neural Word Embeddings](https://skymind.ai/wiki/word2vec)
+ - [x] Set up meeting time with group
  
 #### Key Takeaways from [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
  * DL is a subset of ML which is a subset of AI
@@ -64,6 +65,19 @@ Word Embeddings Visualized, Word2Vec (skip-gram model)
  - [x] Review yesterday's [notes on NLP](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
  - [x] Watch 4.1 - 4.2 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
  - [x] Finished [3B1B's series on Neural Networks]((https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) -- watched backpropagation calculus, had watched the other videos previously
+
+#### Key Takeaways from 4.1 (Introduction to N-grams), 4.2 (Estimating N-gram Probabilities)
+ * Probabalistic language models assign a probability to a sentence
+   * Spell correction, e.g. fifteen minutes from > fifteen minuets from
+   * Speech recognition, e.g. I saw a van > eyes awe of an
+ * Markov Assumption: simplifies the conditional probability chain rule model applied to sentences to increase usable data
+ * Unigram, bigram, and n-gram models
+   * Prefix represents length of Markov model
+   * Tradeoff between size of n and amount of usable data for language models
+
+#### Basic Understanding of [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+ * Use cost function to minimize error
+ * Derivative of the change function provides the slope for the gradient descent
 
 ### October 5th, Friday (3.5 hours)
  - [x] Watch 1.1 - 2.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?v=3Dt_yh1mf_U&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=1)
