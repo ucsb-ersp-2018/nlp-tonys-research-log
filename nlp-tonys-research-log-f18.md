@@ -2,10 +2,18 @@
 
 ___
 
+## Compilation of Useful Resources
+* [Artificial Intelligence Wiki](https://skymind.ai/wiki/)
+* [Glossary of Terms](https://skymind.ai/wiki/glossary)
+* [Dan Jurafsky NLP](https://www.youtube.com/watch?v=zfH2ADGtzJQ&index=2&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
+  * [Notes](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
+* [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
+* [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
 ## Week 2 (10/4-10/10)
 ### Weekly Goals:
 * Go to all meetings!
-  - [ ] Attend Yu Xiang's SMLRG seminar
+  - ~~[ ] Attend Yu Xiang's SMLRG seminar~~ (seminar cancelled)
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend lab meeting
@@ -13,9 +21,11 @@ ___
   - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
 
-### October 7th, Sunday (1.5 hours)
+### October 7th, Sunday (3 hours)
  - [x] Read part of [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
  - [x] Read article on [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
+ - [x] Read about Random Forest [here](https://skymind.ai/wiki/random-forest) and [here](https://en.wikipedia.org/wiki/Random_forest)
+ - [x] Read [A Beginner's Quide to Word2Vec and Neural Word Embeddings](https://skymind.ai/wiki/word2vec)
  
 #### Key Takeaways from [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
  * DL is a subset of ML which is a subset of AI
@@ -29,6 +39,28 @@ ___
    * Deep neural networks contain more than one hidden layer, which allows it to form more complex features
    * Require better hardware (GPU), more training data and time, and more overall computational intensity, but results in higher accuracy
    * DeepMind's AlphaGo algorithm is a well-known application of deep learning
+   
+#### Brief Overview of Random Forest (still don't fully understand)
+ * Random forests are composed of many decision trees
+ * However, they correct for overfitting, a common flaw of decision trees
+   * Average multiple deep decision trees, which reduces variance but increases bias
+
+#### Key Takeaways from Word2Vec
+ * Two-layer neural network that takes in text corpus and outputs a vocabulary comprised of a set of vectors (labels / features) that comprise a vector space
+   * Can be applied to any discrete object, such as genes, likes, and playlists
+ * Neural Word Embeddings are vectors that are made up of numbers that correspond to the features of words, such as context, gender, or distance
+   * Relationships between vectors give clue to the meaning of the words, e.g. Rome - Italy = Beijing - China
+   * Similar words are grouped in a cluster, measured specifically by cosine similarity (v⋅w=∥v∥∥w∥cosθ)
+ * Can be trained using either a continuous bag of words (CBOW) or skip-gram
+   * CBOW: using context to predict a word
+   * Skip-gram: using a word to predict the context
+     * A n-gram but with dropped items, has shown to be more accurate than the CBOW model
+> When the feature vector assigned to a word cannot be used to accurately predict that word’s context, the components of the vector are adjusted. Each word’s context in the corpus is the teacher sending error signals back to adjust the feature vector. The vectors of words judged similar by their context are nudged closer together by adjusting the numbers in the vector.
+
+Word2Vec, skip-gram model
+![Word2Vec, skip-gram model](https://cdn-images-1.medium.com/max/1600/0*FTfdlZ7yDBoQ8c9W.png)
+Word Embeddings
+![Word Embeddings](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/06/06062705/Word-Vectors.png)
 
 ### October 6th, Saturday (1.5 hours)
  - [x] Review yesterday's [notes on NLP](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
