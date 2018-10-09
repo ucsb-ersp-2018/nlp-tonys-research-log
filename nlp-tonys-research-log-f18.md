@@ -21,6 +21,11 @@ ___
   - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [ ] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
 
+### October 8th, Monday (2.5 hours)
+ - [x] Watch 4.3 - 4.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
+ 
+ Have questions about bigram --> unigram and + V in Laplace smoothing
+
 ### October 7th, Sunday (3.5 hours)
  - [x] Read part of [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
  - [x] Read article on [AI vs. ML vs. DL](https://skymind.ai/wiki/ai-vs-machine-learning-vs-deep-learning)
