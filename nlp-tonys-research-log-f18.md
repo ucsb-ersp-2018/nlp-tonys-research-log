@@ -15,17 +15,41 @@ ___
 * Go to all meetings!
   - ~~[ ] Attend Yu Xiang's SMLRG seminar~~ (seminar cancelled)
   - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
-  - [ ] Attend lab meeting
+  - [x] Attend Professor William Wang's NLP research group meeting
+  - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
   - [x] Watch [3Blue1Brown's video series on Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [x] Watch chapter 1, 2, and 4-1 to 4-5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?
+
+### October 10, Wednesday (1.5 hours)
+ - [x] Attended Professor William Wang's NLP research group meeting
+ - [x] Transcribe annotations from [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+ 
+#### Research Group Meeting
+ * PhD student Yu Xiang talked about state-of-the-art methodologies in Reinforcement Learning, followed up by a few graduate students who gave a PowerPoint on their current research
+ * Didn't understand most of the information, but did my best to follow along
+   * I recognize that the learning process will just take time and effort, not worried about my lack of knowledge yet
+ * Terms to learn: Reinforcement learning, Kalman filter / LQR, Contextual Bandits, Multi-arm bandits / Bandits
+
+#### Key Takeaways from [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+ * [Reading log](https://docs.google.com/document/d/1e-VLsE-arXcU3DEQ2v1Zjmsf9z9Kggu6DjFRJdLwRQ8/edit?usp=sharing)
+ * The goal of the paper is to debias word embeddings by removing gender stereotypes while keeping the useful aspects intact
+ * Gender stereotype is empirically demonstrated through both word embeddings and crowd-sourced human evaluation
+   * Geometric understanding of bias is captured by both cosine similarity and delta threshold
+     * Delta threshold ensures the generated analogy have semantic similarity, and the cosine measures the extent to which gender determines the relationship between the two words
+   * Human evaluation is determined by crowd-sourced surveys
+ * Turns out that word embeddings do a good job of capturing gender stereotypes as viewed by humans
+ * Have yet to fully understand methodology and immediate consequence of the paper
 
 ### October 9th, Tuesday (3 hours)
  - [x] Attended Professor Wang's Intro to NLP lecture
  - [x] Continue reading [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
  
-Currently annotating paper, will transcribe later
+#### Intro to NLP Lecture
+ * Talked about Naive Bayes and Voted Perceptron and used smoothing terminologies
+ * Reducing a very large d-dimensional word vector that represents a sentence
+   * We can get rid of all the zeros in the word vector (words in the vector that are not found in the sentence) by simply recording the the index of the words and their count 
+ * Recognized a few concepts, but still a long, long way from full comprehension
 
 ### October 8th, Monday (2.5 hours)
  - [x] Watch 4.3 - 4.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
