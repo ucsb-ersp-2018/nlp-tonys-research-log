@@ -10,11 +10,37 @@ ___
 * [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
+
+## Week 3 (10/11-10/17)
+### Weekly Goals:
+  - [ ] Attend Yu Xiang's SMLRG seminar
+  - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [ ] Attend both Intro to NLP lectures
+  - [ ] Attend lab meeting
+* Learn about ML / NLP fundamentals
+  - [ ] Watch chapters 4 and 5 of [Dan Jurasky's series](https://www.youtube.com/watch?v=naNezonMA7k&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=17)
+  - [ ] Read two new papers on gender bias in NLP
+
+### October 11, Thursday (1 hour)
+ - [x] Attend Intro to NLP Lecture
+ - [x] Review [word embeddings](https://skymind.ai/wiki/word2vec)
+ 
+#### Intro to NLP Lecture
+ * Talked about Naive Bayes Classifier and Voted Perceptrons
+ * Played perceptron game to understand perceptrons better
+   * Perceptrons don’t need to retrain entire model if given new data; however, they can’t mesaure uncertainty (probability), only outputs positive or negative
+   * Voted perceptrons are an ensemble of perceptrons
+ * Review of gradient descent
+   * Pros: simple and often quite effective on ML tasks, is scalable to larger tasks
+   * Cons: only applies to smooth functions (differentiable), and method might find a local minimum rather than global one, no guarantee for optimal solution
+ * Terms to work on: perceptron, voted perceptron, naive bayes classifier, gradient ascent for linear classifiers, stochastic gradient descent
+
 ## Week 2 (10/4-10/10)
 ### Weekly Goals:
 * Go to all meetings!
   - ~~[ ] Attend Yu Xiang's SMLRG seminar~~ (seminar cancelled)
-  - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [x] Attend both of the research methods lecture with Professor Mirza
   - [x] Attend Professor William Wang's NLP research group meeting
   - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
@@ -54,7 +80,12 @@ ___
 ### October 8th, Monday (2.5 hours)
  - [x] Watch 4.3 - 4.5 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
  
- Will summarize notes later
+#### Key Takeaways from 4.3 (Evaluation and Perplexity), 4.4 (Generalization and Zeros), and 4.5 (Add-one Laplace smoothing)
+ * Good language models assign higher probability to “real” or “frequently observed sentences” rather than “ungrammatical” or “rarely observed” sentences
+ * Extrinsic evaluation of N-gram models measures performance based on external task
+   * However, extrinsive (in-vivo) evaluation consumes a lot of resources and time
+ * Intrinsic evaluation measures something that’s intrinsic about language models and not about any particular application
+   * Perplexity is a common metric of intrinsic evaluation, measures 
  Have questions about bigram --> unigram and + V in Laplace smoothing
 
 ### October 7th, Sunday (3.5 hours)
