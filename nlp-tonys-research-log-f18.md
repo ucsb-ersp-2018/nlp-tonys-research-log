@@ -13,6 +13,7 @@ ___
 
 ## Week 3 (10/11-10/17)
 ### Weekly Goals:
+* Go to all meetings!
   - [ ] Attend Yu Xiang's SMLRG seminar
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
