@@ -6,7 +6,7 @@ ___
 * [Artificial Intelligence Wiki](https://skymind.ai/wiki/)
 * [Glossary of Terms](https://skymind.ai/wiki/glossary)
 * [Dan Jurafsky NLP](https://www.youtube.com/watch?v=zfH2ADGtzJQ&index=2&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
-  * [Notes](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
+  * [Personal Notes](https://docs.google.com/document/d/1gr1zTvuQSUCwtvOqNz9lR9EOSweczcqQiT3lIWphStQ/edit?usp=sharing)
 * [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
@@ -18,14 +18,16 @@ ___
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend both Intro to NLP lectures
-  - [ ] Attend lab meeting
+  - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
   - [ ] Watch chapters 4 and 5 of [Dan Jurasky's series](https://www.youtube.com/watch?v=naNezonMA7k&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=17)
   - [ ] Read two new papers on gender bias in NLP
 
-### October 11, Thursday (1 hour)
+### October 11, Thursday (2.5 hours)
  - [x] Attend Intro to NLP Lecture
  - [x] Review [word embeddings](https://skymind.ai/wiki/word2vec)
+ - [x] Meeting with team members
+ - [x] Meeting with Professor Wang and Mai
  
 #### Intro to NLP Lecture
  * Talked about Naive Bayes Classifier and Voted Perceptrons
@@ -36,6 +38,8 @@ ___
    * Pros: simple and often quite effective on ML tasks, is scalable to larger tasks
    * Cons: only applies to smooth functions (differentiable), and method might find a local minimum rather than global one, no guarantee for optimal solution
  * Terms to work on: perceptron, voted perceptron, naive bayes classifier, gradient ascent for linear classifiers, stochastic gradient descent
+ 
+ [Meeting Notes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
 ## Week 2 (10/4-10/10)
 ### Weekly Goals:
@@ -86,8 +90,13 @@ ___
  * Extrinsic evaluation of N-gram models measures performance based on external task
    * However, extrinsive (in-vivo) evaluation consumes a lot of resources and time
  * Intrinsic evaluation measures something that’s intrinsic about language models and not about any particular application
-   * Perplexity is a common metric of intrinsic evaluation, measures 
- Have questions about bigram --> unigram and + V in Laplace smoothing
+   * Perplexity is a common metric of intrinsic evaluation, measures how well the model can predict the next word given some context
+   * Better models have lower perplexity and improve with length of n-gram
+   * However, models can't evaluate perplexity for 0 probability n-gram because if the string of words never occurs in the training data, the model will not predict a previously unseen string when evaluating test data
+ * A simple way to address this issue is to siphon some of the probability present in other n-grams (let's say bigram for our example) and give it to the bigrams with 0 probability
+   * Add-one (Laplace) smoothing adds 1 to each possible bigram; however, this is not a scalable solution if the number of 0 probability bigrams is large relative to the possible set of bigrams
+ * Have questions about bigram --> unigram and + V in Laplace smoothing
+ 
 
 ### October 7th, Sunday (3.5 hours)
  - [x] Read part of [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
