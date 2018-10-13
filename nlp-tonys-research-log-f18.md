@@ -22,6 +22,9 @@ ___
 * Learn about ML / NLP fundamentals
   - [x] Read two new papers on gender bias in NLP
 
+### October 13, Saturday (2 hours)
+ - [x] Meet with team to discuss [Men Also Like Shopping](https://arxiv.org/pdf/1707.09457.pdf) and [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
+
 ### October 12, Friday (4.5 hours)
  - [x] Read [example of survey paper](http://aclweb.org/anthology/D15-1021)
  - [x] Read and annotate [Men Also Like Shopping](https://arxiv.org/pdf/1707.09457.pdf)
