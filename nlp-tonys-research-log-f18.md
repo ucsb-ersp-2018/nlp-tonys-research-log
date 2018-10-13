@@ -14,17 +14,21 @@ ___
 ## Week 3 (10/11-10/17)
 ### Weekly Goals:
 * Go to all meetings!
-  - [ ] Attend Yu Xiang's SMLRG seminar
+  - ~~[ ] Attend Yu Xiang's SMLRG seminar~~ (schedule conflict)
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend both Intro to NLP lectures
   - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
-  - [ ] Watch chapters 4 and 5 of [Dan Jurasky's series](https://www.youtube.com/watch?v=naNezonMA7k&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=17)
-  - [ ] Read two new papers on gender bias in NLP
+  - [x] Read two new papers on gender bias in NLP
 
-### October 12, Friday (1 hour)
+### October 12, Friday (4.5 hours)
  - [x] Read [example of survey paper](http://aclweb.org/anthology/D15-1021)
+ - [x] Read and annotate [Men Also Like Shopping](https://arxiv.org/pdf/1707.09457.pdf)
+ - [x] Read [Joint Inference for NLP](http://www.aclweb.org/anthology/W09-1101)
+ - [x] Read [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
+
+Will transcribe notes in the future
 
 ### October 11, Thursday (3 hours)
  - [x] Attend Intro to NLP Lecture
