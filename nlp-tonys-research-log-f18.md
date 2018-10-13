@@ -23,11 +23,15 @@ ___
   - [ ] Watch chapters 4 and 5 of [Dan Jurasky's series](https://www.youtube.com/watch?v=naNezonMA7k&list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm&index=17)
   - [ ] Read two new papers on gender bias in NLP
 
-### October 11, Thursday (2.5 hours)
+### October 12, Friday (1 hour)
+ - [x] Read [example of survey paper](http://aclweb.org/anthology/D15-1021)
+
+### October 11, Thursday (3 hours)
  - [x] Attend Intro to NLP Lecture
  - [x] Review [word embeddings](https://skymind.ai/wiki/word2vec)
  - [x] Meeting with team members
  - [x] Meeting with Professor Wang and Mai
+ - [x] Call Yuxin to discuss team development
  
 #### Intro to NLP Lecture
  * Talked about Naive Bayes Classifier and Voted Perceptrons
