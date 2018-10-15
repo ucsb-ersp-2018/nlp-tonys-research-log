@@ -23,13 +23,13 @@ ___
   - [x] Read two new papers on gender bias in NLP
 
 ### October 14, Sunday (5 hours)
+ - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
  - [x] Explore Python and some machine learning libraries
  - [x] Create a [restaurant review machine learning model](https://github.com/tonysun9/machine-learning-models/blob/master/restaurantReviews.py "Restaurant Review ML Model") using naive bayes classifier
- - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
  
  [Reading log](https://docs.google.com/document/d/1e-VLsE-arXcU3DEQ2v1Zjmsf9z9Kggu6DjFRJdLwRQ8/edit?usp=sharing) for [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)
 
-#### [Restaurant Review ML Model](https://github.com/tonysun9/machine-learning-models/blob/master/restaurantReviews.py)
+#### [Restaurant Review ML Model](https://github.com/tonysun9/machine-learning-models/blob/master/restaurantReviews.py "Restaurant Review ML Model")
  * Set up Python IDE using Spyder
  * Used a naive bayes classifier to classify whether a review is positive (1) or negative (0)
  * Used continuous bag of words (CBOW) model to represent restaurant reviews
