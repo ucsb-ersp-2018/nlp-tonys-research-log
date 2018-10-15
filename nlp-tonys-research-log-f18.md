@@ -22,11 +22,23 @@ ___
 * Learn about ML / NLP fundamentals
   - [x] Read two new papers on gender bias in NLP
 
-### October 14, Sunday (3 hours)
+### October 14, Sunday (5 hours)
  - [x] Explore Python and some machine learning libraries
+ - [x] Create a [restaurant review machine learning model](https://github.com/tonysun9/machine-learning-models/blob/master/restaurantReviews.py "Restaurant Review ML Model") using naive bayes classifier
  - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
  
  [Reading log](https://docs.google.com/document/d/1e-VLsE-arXcU3DEQ2v1Zjmsf9z9Kggu6DjFRJdLwRQ8/edit?usp=sharing) for [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)
+
+#### [Restaurant Review ML Model](https://github.com/tonysun9/machine-learning-models/blob/master/restaurantReviews.py)
+ * Set up Python IDE using Spyder
+ * Used a naive bayes classifier to classify whether a review is positive (1) or negative (0)
+ * Used continuous bag of words (CBOW) model to represent restaurant reviews
+ * Addressing sparse matrix (matrix will have many 0's due to the ratio between unique words per review and size of vocabulary of corpus)
+   * Normalize reviews through regular expressions, lower-case letters, and stopwords
+   * Expand each review into its components to enable stemming using PorterStemmer
+   * Collapse back into a string and append into new and simplified corpus
+ * Use only the 1500 most common words to create the CBOW model so that words that appear infrequently (e.g. Steve) will not affect the way the naive bayes classifier learns
+ * Training data of 800 reviews, test data of 200 reviews, success rate of 73% -- accuracy will improve with size of training data
 
 ### October 13, Saturday (2 hours)
  - [x] Meet with team to discuss [Men Also Like Shopping](https://arxiv.org/pdf/1707.09457.pdf) and [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
