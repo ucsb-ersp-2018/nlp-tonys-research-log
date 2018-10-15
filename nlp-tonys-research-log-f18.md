@@ -22,6 +22,12 @@ ___
 * Learn about ML / NLP fundamentals
   - [x] Read two new papers on gender bias in NLP
 
+### October 14, Sunday (3 hours)
+ - [x] Explore Python and some machine learning libraries
+ - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
+ 
+ [Reading log](https://docs.google.com/document/d/1e-VLsE-arXcU3DEQ2v1Zjmsf9z9Kggu6DjFRJdLwRQ8/edit?usp=sharing) for [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)
+
 ### October 13, Saturday (2 hours)
  - [x] Meet with team to discuss [Men Also Like Shopping](https://arxiv.org/pdf/1707.09457.pdf) and [Learning Gender-Neutral Word Embeddings](https://arxiv.org/pdf/1809.01496.pdf)
 
@@ -65,7 +71,7 @@ Will transcribe notes in the future
 
 ### October 10, Wednesday (1.5 hours)
  - [x] Attended Professor William Wang's NLP research group meeting
- - [x] Transcribe annotations from [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+ - [x] Transcribe annotations from [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)
  
 #### Research Group Meeting
  * PhD student Yu Xiang talked about state-of-the-art methodologies in Reinforcement Learning, followed up by a few graduate students who gave a PowerPoint on their current research
@@ -73,7 +79,7 @@ Will transcribe notes in the future
    * I recognize that the learning process will just take time and effort, not worried about my lack of knowledge yet
  * Terms to learn: Reinforcement learning, Kalman filter / LQR, Contextual Bandits, Multi-arm bandits / Bandits
 
-#### Key Takeaways from [Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520)
+#### Key Takeaways from [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)
  * [Reading log](https://docs.google.com/document/d/1e-VLsE-arXcU3DEQ2v1Zjmsf9z9Kggu6DjFRJdLwRQ8/edit?usp=sharing)
  * The goal of the paper is to debias word embeddings by removing gender stereotypes while keeping the useful aspects intact
  * Gender stereotype is empirically demonstrated through both word embeddings and crowd-sourced human evaluation
