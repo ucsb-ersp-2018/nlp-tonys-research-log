@@ -35,7 +35,7 @@ ___
  * The next position is your current position minus some factor times the gradient term
    * Take larger steps when slope is steeper, smaller steps when slope is flatter
  * Mini batch gradient descent combines the utility of stochastic gradient descent and efficiency of batch gradient descent
-![Gradient Descent](https://i.stack.imgur.com/w7ARo.png)
+![Gradient Descent](https://cdn-images-1.medium.com/max/703/1*t4aYsxpCqz2eymJ4zkUS9Q.png)
 
 ### October 14, Sunday (5 hours)
  - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
