@@ -20,7 +20,12 @@ ___
   - [ ] Attend both Intro to NLP lectures
   - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
-  - [x] Read two new papers on gender bias in NLP
+  - [x] Read and discuss two new papers on gender bias in NLP
+  - [x] Explore Python and create a simple ML model
+  
+### October 15, Monday (1.5 hours)
+ - [x] Read [Gender Bias in Coreference Resolution (Zhao et al. 2018)](http://web.cs.ucla.edu/~kwchang/publications/ZWYOC18.html)
+ - [x] Discuss paper with team to gain a deeper understanding of methodology
 
 ### October 14, Sunday (5 hours)
  - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
