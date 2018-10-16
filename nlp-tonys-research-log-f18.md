@@ -23,9 +23,19 @@ ___
   - [x] Read and discuss two new papers on gender bias in NLP
   - [x] Explore Python and create a simple ML model
   
-### October 15, Monday (1.5 hours)
+### October 15, Monday (2 hours)
  - [x] Read [Gender Bias in Coreference Resolution (Zhao et al. 2018)](http://web.cs.ucla.edu/~kwchang/publications/ZWYOC18.html)
  - [x] Discuss paper with team to gain a deeper understanding of methodology
+ - [x] Read about [gradient descent](https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0) for Wednesday presentation
+
+#### Key takeaways from [Gradient Descent Article](https://towardsdatascience.com/gradient-descent-in-a-nutshell-eaf8c18212f0)
+ * Gradient descent is a minimization algorithm that minimizes a given cost function
+   * A gradient measures the change in all weights in response to some change in error/cost, represents the slope (partial derivative) of a function
+   * Find local minimum of function J(w,b) by adjusting parameters w and b
+ * The next position is your current position minus some factor times the gradient term
+   * Take larger steps when slope is steeper, smaller steps when slope is flatter
+ * Mini batch gradient descent combines the utility of stochastic gradient descent and efficiency of batch gradient descent
+![Gradient Descent](https://i.stack.imgur.com/w7ARo.png)
 
 ### October 14, Sunday (5 hours)
  - [x] Complete second pass-through of [Man is to Computer Programmer as Woman is to Homemaker](https://arxiv.org/abs/1607.06520)]
