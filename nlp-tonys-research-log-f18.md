@@ -26,6 +26,7 @@ ___
 ### October 16, Tuesday (2.5 hours)
  - [x] Attended Intro to NLP lecture
  - [x] Learned about gradient descent
+ - [x] Watch videos on particle swarm optimization [here](https://www.youtube.com/watch?v=JhgDMAm-imI) and [here](https://www.youtube.com/watch?v=ckbdXbbNNNA)
  
 #### Key Takeaways from NLP lecture
  * POS tagging approaches
