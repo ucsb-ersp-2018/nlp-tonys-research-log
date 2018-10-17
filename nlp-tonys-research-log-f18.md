@@ -23,6 +23,18 @@ ___
   - [x] Read and discuss two new papers on gender bias in NLP
   - [x] Explore Python and create a simple ML model
   
+### October 16, Tuesday (2.5 hours)
+ - [x] Attended Intro to NLP lecture
+ - [x] Learned about gradient descent
+ 
+#### Key Takeaways from NLP lecture
+ * POS tagging approaches
+   * Rule-based: human crafted rules based on lexical and other linguistic knowledge
+   * Learning-based: trained on human annotated corpora like the Penn Treebank, e.g. hidden markov model, conditional random field
+ * Probabilistic sequence models allow integrating uncertainty over multiple, interdependent classifications and collectively determine the most likely global assignement
+ 
+[Gradient Descent Notes](https://docs.google.com/document/d/1z5suHbjPTEZp_ZZ9mJPe1R67Re6RvDhRsRw66cdL55Y/edit?usp=sharing)
+
 ### October 15, Monday (2 hours)
  - [x] Read [Gender Bias in Coreference Resolution (Zhao et al. 2018)](http://web.cs.ucla.edu/~kwchang/publications/ZWYOC18.html)
  - [x] Discuss paper with team to gain a deeper understanding of methodology
