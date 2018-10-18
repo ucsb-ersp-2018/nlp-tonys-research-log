@@ -4,11 +4,11 @@ ___
 
 ## Survey Paper Deadlines
    ### Soft deadlines
-   - [ ] 10/30: outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
-   - [ ] 11/15: first draft of paper, 5-10 iterations before we submit
+   - [ ] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
+   - [ ] 11/15: First draft of paper, 5-10 iterations before we submit
    ### Hard deadlines
    - [ ] 12/3: Abstract due
-   - [ ] 12/10: full paper
+   - [ ] 12/10: Full Paper
 
 ___
 
