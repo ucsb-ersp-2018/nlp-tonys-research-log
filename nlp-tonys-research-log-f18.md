@@ -22,10 +22,15 @@ ___
 * Learn about ML / NLP fundamentals
   - [x] Read and discuss two new papers on gender bias in NLP
   - [x] Explore Python and create a simple ML model
-  
+
+   ### Meeting minutes with Professor Wang and Mai
+     #### Meeting inputs
+     #### Meeting outputs
+
 ### October 17, Wednesday (1.5 hours)
  - [x] Attend NLP research group meeting
  - [x] Read articles on [logistic regression](https://skymind.ai/wiki/logistic-regression) and [backpropagation](https://skymind.ai/wiki/backpropagation) and understand how these topics relate to gradient descent
+ - [x] Attend research methods lecture
  
 #### NLP Research Group Meeting
  * Dual learning machine translation
