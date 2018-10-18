@@ -15,14 +15,22 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - ~~[ ] Attend Yu Xiang's SMLRG seminar~~ (schedule conflict)
-  - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
-  - [ ] Attend both Intro to NLP lectures
+  - [x] Attend both of the research methods lecture with Professor Mirza
+  - [x] Attend Professor William Wang's NLP research group meeting
+  - [x] Attend both Intro to NLP lectures
   - [x] Attend lab meeting
 * Learn about ML / NLP fundamentals
   - [x] Read and discuss two new papers on gender bias in NLP
   - [x] Explore Python and create a simple ML model
   
+### October 17, Wednesday (1.5 hours)
+ - [x] Attend NLP research group meeting
+ - [x] Read articles on [logistic regression](https://skymind.ai/wiki/logistic-regression) and [backpropagation](https://skymind.ai/wiki/backpropagation) and understand how these topics relate to gradient descent
+ 
+#### NLP Research Group Meeting
+ * Dual learning machine translation
+   * I didn't fully understand the paper that was presented, but it was pretty interesting to listen in to the discussion of people who are at the forefront of the field
+
 ### October 16, Tuesday (2.5 hours)
  - [x] Attended Intro to NLP lecture
  - [x] Learned about gradient descent
