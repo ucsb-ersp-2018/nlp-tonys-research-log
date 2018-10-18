@@ -2,6 +2,16 @@
 
 ___
 
+## Survey Paper Deadlines
+   ### Soft deadlines
+   - [ ] 10/30: outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
+   - [ ] 11/15: first draft of paper, 5-10 iterations before we submit
+   ### Hard deadlines
+   - [ ] 12/3: Abstract due
+   - [ ] 12/10: full paper
+
+___
+
 ## Compilation of Useful Resources
 * [Artificial Intelligence Wiki](https://skymind.ai/wiki/)
 * [Glossary of Terms](https://skymind.ai/wiki/glossary)
@@ -26,6 +36,8 @@ ___
    ### Meeting minutes with Professor Wang and Mai
      #### Meeting inputs
      #### Meeting outputs
+
+#### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
 ### October 17, Wednesday (1.5 hours)
  - [x] Attend NLP research group meeting
