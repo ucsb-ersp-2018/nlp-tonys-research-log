@@ -35,10 +35,11 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
-### October 18, Thursday (3 hours)
+### October 18, Thursday (4 hours)
  - [x] Meeting with Mai and Professor Wang
  - [x] Meeting with teammates
  - [x] Read about [feature scaling](http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html)
+ - [x] Create a simple linear regression [experience vs salary model](https://github.com/tonysun9/machine-learning-models/blob/master/simpleLinearRegression.py) on Python
 
 #### Meeting with Mai and Professor Wang
  * [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
