@@ -35,13 +35,19 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
-### October 18, Thursday (2 hours)
+### October 18, Thursday (3 hours)
  - [x] Meeting with Mai and Professor Wang
  - [x] Meeting with teammates
+ - [x] Read about [feature scaling](http://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html)
 
-[Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
+#### Meeting with Mai and Professor Wang
+ * [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
+ * [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
-[Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
+#### Importance of Feature Scaling
+ * Scaling ensures that just because some features are big it won't lead to the machine learning model using them as a main predictor
+ * Standardization involves rescaling the features such that they have the properties of a standard normal distribution with a mean of zero and a standard deviation of one
+   * Standardization is an important preprocessing step for ML models such as SVM, K-nearest neighbors, and logistic regression
 
 ## Week 3 (10/11-10/17)
 ### Weekly Goals:
