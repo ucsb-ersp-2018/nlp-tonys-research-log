@@ -35,10 +35,10 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
-### October 19, Friday (2.5 hours)
+### October 19, Friday (3 hours)
  - [x] Watch 4.6 - 4.8 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
  - [x] Read [Social Bias in Elicited Natural Language Inferences](http://www.aclweb.org/anthology/W17-1609)
- - [x] Learn about [Pointwise Mutual Information](https://www.youtube.com/watch?v=swDoFpuHpzQ)
+ - [x] Learn about [Pointwise Mutual Information](https://www.youtube.com/watch?v=swDoFpuHpzQ) vs [Mutual Information](https://www.youtube.com/watch?v=U9h1xkNELvY)
 
 ### October 18, Thursday (4 hours)
  - [x] Meeting with Mai and Professor Wang
