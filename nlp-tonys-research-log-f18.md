@@ -35,6 +35,10 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
+### October 20, Saturday (3 hours)
+ - [x] Read [A Survey on Information Retrieval, Text Categorization, and Web Crawling](https://arxiv.org/ftp/arxiv/papers/1212/1212.2065.pdf)
+ - [x] Meeting with team members discussing papers and direction of literature review paper
+
 ### October 19, Friday (3 hours)
  - [x] Watch 4.6 - 4.8 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
  - [x] Read [Social Bias in Elicited Natural Language Inferences](http://www.aclweb.org/anthology/W17-1609)
