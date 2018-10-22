@@ -26,14 +26,35 @@ ___
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend Intro to NLP lecture
-  - [x] Attend lab meeting
+  - [x] Attend lab meeting with Mai and Professor Wang
+  - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
+  - [x] Finish chapter 4 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
+  - [x] Create a simple linear regression model using ML on Python
   - [ ] Learn about different types of ML classifiers
 
    ### Meeting minutes with Professor Wang and Mai
      #### [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
+
+### October 21, Sunday (1.5 hours)
+
+#### Identifying Research Problems
+> Bs well as more specific technical problemsrainstorm the various problems that your broader research group is focused on. Try to include both high-level problems as well as more specific technical problems.
+
+I am not quite sure what my "broader research group" refers to specifically, but I will assume it refers to the broad group of people researching bias in natural language processing (NLP). To my understanding, bias in NLP is a relatively nascent concept. It refers to how machines trained on text corpora may unknowingly capture human biases and stereotypes. Consequently, other machines or algorithms that rely upon these NLP models in downstream applications may transmit these biases and stereotypes to the user, which could easily propagate bigotry and prejudice. Researchers who are attempting to remove bias in NLP have utilized a variety of approaches, ranging from manipulating word embeddings, data augmentation, restricting model output, and anonymizing named entities. However, there has not yet been one single best approach because there are many stages at which text is processed and analyzed, meaning that what works at one stage may not be so effective at another. Furthermore, it is difficult to identify to what extent NLP models reflect or amplify bias present in society.
+
+One of the papers our team has read discussed the idea of removing the gender subspace of gender-neutral words from the overall vectorspace of words. While certainly a promising solution, the consequence of methods along these lines risks destroying some semantic meaning of these gender-neutral words. For example, *clock* is a gender-neutral word, but it has associations with the word *grandfather*. By removing clock's gender subspace, then an NLP model would predict *grandmother* and *grandfather* with equal probability to precede *clock*, which does not reflect the actual English language. Other people have tried anonymizing named entities and augmenting the corpora by swapping gendered words, but once again, it is difficult to test the degree to which these approaches have affected semantic meaning and removed "bias" (although there have been methods to quantify bias).
+
+Since our team's role is to assess the performance of proposed methods to remove bias in NLP, we are deeply involved with both the high-level problems as well as the more specific technical ones. I would say, though, that we are more concerned with the big picture and how current approaches compare to one another and what the future directions of the field might be.
+
+#### Reflection
+> In your log, write a short reflection on your experience in ERSP so far. What do you like most about the work you have been doing?  What do you like least?  What is the biggest concern or question you have?
+
+I love, love, love the satisfaction I feel from contributing meaningfully to the advancement of a particular field of computer science. So far, it has been such an incredible experience to be able to pick the minds the outstanding faculty at the university and collaborate with my extremely bright peers. To be frank, coming into the program, I wasn't sure if I was going to enjoy learning about gender bias in natural language processing simply because it seemed like such an abstract problem. However, understanding how others have tranformed this topic into concrete numbers and statistics has appealed to me greatly. I find it highly fascinating to see how we can represent nebulous ideas as mathematical concepts. Furthermore, I recognize the significance and consequences of bias in natural language processing, such as how it can propagate stereotypes if left unchecked.
+
+It has certainly been a lot of hard work, time, and effort, but I truly believe it will pay big dividends in the future. Our team's goal by the end of this year is to publish a literature review paper to a top conference. Although task is not easy, I know that I can be proud of my work regardless of the outcome. I can't wait to see what the future holds.
 
 ### October 20, Saturday (3 hours)
  - [x] Read [A Survey on Information Retrieval, Text Categorization, and Web Crawling](https://arxiv.org/ftp/arxiv/papers/1212/1212.2065.pdf)
