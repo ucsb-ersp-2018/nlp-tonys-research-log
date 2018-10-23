@@ -38,7 +38,13 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
+### October 22, Monday (1 hour)
+ - [x] Create Google Drive to organize documents
+ - [x] Work on [Group Reflection](https://docs.google.com/document/d/1H_V2T2gNRewMRvP6ARWIC2B2QxkSvJ1BujZ9456PTow/edit?usp=sharing)
+ - [x] Skim abstracts of papers on papers on bias in NLP
+
 ### October 21, Sunday (1.5 hours)
+ - [x] Identify Research Problems
 
 #### Identifying Research Problems
 > Bs well as more specific technical problemsrainstorm the various problems that your broader research group is focused on. Try to include both high-level problems as well as more specific technical problems.
