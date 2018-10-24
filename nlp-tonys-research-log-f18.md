@@ -25,7 +25,6 @@ ___
 * Go to all meetings!
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
-  - [ ] Attend Intro to NLP lecture
   - [x] Attend lab meeting with Mai and Professor Wang
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
@@ -37,6 +36,23 @@ ___
      #### [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
+
+### October 23, Tuesday (2.5 hours)
+ - [x] Learn about Naive Bayes Classifier
+ - [x] Watch video on [Bias vs Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+ - [x] Watch chapter 6 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
+
+#### Terminology
+ * Accuracy: total number of correct predictions / total number of predictions
+ * Precision: how many selected items are relevant? true positives / (true positives + false positives)
+ * Recall: how many relevant items are selected? true positives / (true positives + false negatives)
+   * F measure: combined measure that assesses the precision/recall tradeoff: 1/(alpha*(1/P) + (1 - alpha)\*(1/R))
+   * Usually we use F1 measure (alpha is 1/2), so precision and recall are weighted equally
+ * Bias: "error from erroneous assumptions in the learning algorithm. High bias can cause an algorithm to miss the relevant relations between features and target outputs (underfitting)"
+ * Variance: "error from sensitivity to small fluctuations in the training set. High variance can cause an algorithm to model the random noise in the training data, rather than the intended outputs (overfitting)"
+   * Ideally we have a low-bias, low-variance model, but is difficult due to bias-variance tradeoff
+ * Naive Bayes: conditional probability model that simplifies assumptions and uses Bayes' theorem to find output with maximum probability 
+ * Confusion matrix: a table with actual and predicted outcomes of a model, makes it easy to identify mistakes
 
 ### October 22, Monday (1 hour)
  - [x] Create Google Drive to organize documents
@@ -388,18 +404,3 @@ ___
 Ahhh!! There are so, so many things that I'm excited about that it's hard to pinpoint just one thing, but I'll try to summarize the main points of interest in a few bullet points.
   * **Learning about Machine Learning and NLP:** When Deep Blue first beat Kasparov over twenty years ago, the program pretty much relied on brute force. So when Google's AlphaZero came out and surpassed the level of human players, to say I was fascinated would be an understatement. To me, these new programs are merely a glimpse of the potential and future of machine learning, which is why I cannot wait to learn more about it.
   * **Working with Esteemed Faculty and Talented Peers:** I am certainly super excited to perform hands-on, in-depth research with outstanding faculty in Professor Mirza and Professor William Wang as well as highly talented colleagues. I know that working alongside these amazing people will inspire me to constantly improve. I will definitely be taking advantage to pick their brains for knowledge, ideas, and advice.
-  * **Performing Research:** It is an absolute privilege that I have the opportunity to contribute in a meaningful way to our world's understanding of computer science. Seeing what the brightest minds in the field are doing today and building upon that foundation of knowledge is just such a thrilling concept to me. I am incredibly eager to get started.
-> What are you most nervous about in ERSP, and why?
-
-I can see myself getting overwhelmed if I do not plan ahead accordingly. I recognize that the ERSP requires a lot of hard work, and it will take immense discipline and consistency to stay on top of everything.\
-
-#### Log Reflection
-> How did the logs differ in style (not just in content)?  What advantages do you see in one style over another?
-
-I would say that both of the logs were quite informational and well-organized. Miranda's log was pretty impressive, and the design of her page was easier on the eyes. On the other hand, Adrian's log was more to the point, which can be beneficial if you're going over the log and short on time.
-> How do you think the logs were useful, both to the researcher as well as those working with the researcher?
-
-As a student, I can definitely see the importance of recording your work. The timeline serves as an excellent reference for the future, since it is impossible to remember every detail. It also communicates precisely where you are at in your research to anyone reading your log. I am sure that professors and researchers will find it helpful to know your progress so that they can give effective advice and adjust the project appropriately.
-> Did the students keeping their logs seem to meet their goals?  Did they get better at meeting their goals over time?
-
-Miranda had an explicit "Goals" and "Accomplished" section that I found quite helpful when reading her log. Adrian clearly defined his goals, but it was not always obvious whether or not he accomplished them. Both of them definitely showed progress and improvement over time. For example, Adrian appeared to gain much more out of his meetings with advisors and peers towards the end of the school year comppared to the start. Miranda was quite consistent throughout, but I noticed the difficulty of her goals gradually increased while she maintained a similar accomplishment rate.
