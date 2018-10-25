@@ -23,19 +23,24 @@ ___
 ## Week 4 (10/18-10/24)
 ### Weekly Goals:
 * Go to all meetings!
-  - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [x] Attend both of the research methods lecture with Professor Mirza
+  - [x] Attend Professor William Wang's NLP research group meeting
   - [x] Attend lab meeting with Mai and Professor Wang
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [x] Finish chapter 4 of [Dan Jurafsky's Series on NLP](https://www.youtube.com/watch?)
   - [x] Create a simple linear regression model using ML on Python
-  - [ ] Learn about different types of ML classifiers
+  - [x] Learn about different types of ML classifiers
 
    ### Meeting minutes with Professor Wang and Mai
      #### [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
+
+### October 24, Wednesday
+ - [x] Attend Professor Wang's NLP research group meeting
+ - [x] Attend research methods lecture
+ - [x] Find target articles for literature review paper
 
 ### October 23, Tuesday (2.5 hours)
  - [x] Learn about Naive Bayes Classifier
@@ -58,6 +63,7 @@ ___
  - [x] Create Google Drive to organize documents
  - [x] Work on [Group Reflection](https://docs.google.com/document/d/1H_V2T2gNRewMRvP6ARWIC2B2QxkSvJ1BujZ9456PTow/edit?usp=sharing)
  - [x] Skim abstracts of papers on papers on bias in NLP
+ - [x] Attend research methods lecture
 
 ### October 21, Sunday (1.5 hours)
  - [x] Identify Research Problems
