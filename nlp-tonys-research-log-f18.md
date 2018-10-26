@@ -20,6 +20,35 @@ ___
 * [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
+## Week 5 (10/25-10/31)
+### Weekly Goals:
+* Go to all meetings!
+  - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [x] Attend lab meeting with Mai and Professor Wang
+  - [ ] Attend team meeting
+* Learn about ML / NLP fundamentals
+  - [ ] Finish outline of literature review paper
+  - [ ] Finalize list of papers to use
+
+   ### Meeting minutes with Professor Wang and Mai
+     #### [Meeting inputs](https://docs.google.com/document/d/14KhueElt5UMloa3rwZ0bKzZ4ZgDiGWSFJybp5XDRujc/edit?usp=sharing)
+     #### [Meeting outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
+     #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
+
+### October 25, Thursday (3 hours)
+ - [x] Read [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005.pdf)
+ - [x] Read [Semantics derived automatically from language corpora necessarily contain human biases](http://www.cs.bath.ac.uk/~jjb/ftp/CaliskanSemantics-Arxiv.pdf)
+ - [x] Skim [Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html)
+ - [x] Attend meeting with Professor Wang and Mai
+ 
+#### Sentiment Analysis, Semantics, and Rejecting the Gender Binary Notes
+ * Took notes [here](https://docs.google.com/document/d/1qlLdOs6ku93qZ2fENe3YL5Ikp0yF02XpZ8ExjYzCPHg/edit) and [here](https://docs.google.com/document/d/1uC8kRC9huDNK4Aem18zAQpNfJGKetWrDbN5p8eqYCDA/edit)
+ 
+#### Meeting with Mai and Professor Wang
+ * [Meeting inputs](https://docs.google.com/document/d/14KhueElt5UMloa3rwZ0bKzZ4ZgDiGWSFJybp5XDRujc/edit?usp=sharing)
+ * [Meeting outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
+
 ## Week 4 (10/18-10/24)
 ### Weekly Goals:
 * Go to all meetings!
@@ -37,7 +66,7 @@ ___
      #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
      #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
-### October 24, Wednesday
+### October 24, Wednesday (1.5 hours)
  - [x] Attend Professor Wang's NLP research group meeting
  - [x] Attend research methods lecture
  - [x] Find target articles for literature review paper
