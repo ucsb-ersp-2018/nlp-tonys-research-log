@@ -32,9 +32,9 @@ ___
   - [ ] Finalize list of papers to use
 
 ### Meeting minutes with Professor Wang and Mai
-   #### [Meeting inputs](https://docs.google.com/document/d/14KhueElt5UMloa3rwZ0bKzZ4ZgDiGWSFJybp5XDRujc/edit?usp=sharing)
-   #### [Meeting outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
-   #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
+####    [Meeting Inputs](https://docs.google.com/document/d/14KhueElt5UMloa3rwZ0bKzZ4ZgDiGWSFJybp5XDRujc/edit?usp=sharing)
+####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
+####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
 ### October 25, Thursday (3 hours)
  - [x] Read [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005.pdf)
@@ -62,9 +62,9 @@ ___
   - [x] Learn about different types of ML classifiers
 
 ### Meeting minutes with Professor Wang and Mai
-   #### [Meeting inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
-   #### [Meeting outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
-   #### [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
+####    [Meeting Inputs](https://docs.google.com/document/d/1kTvtGg6FzSVyv7xTbk3uDzsbKDlY8iDJIGbARWSyIk0/edit?usp=sharing)
+####    [Meeting Outputs](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
+####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1D1hw3S-Pd6kZu8dMB0y19PN43qONlThHe9V1LNHE_lc/edit?usp=sharing)
 
 ### October 24, Wednesday (1.5 hours)
  - [x] Attend Professor Wang's NLP research group meeting
