@@ -36,6 +36,9 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
+### October 26, Friday (1 hour)
+ - [x] Meeting with Mai
+
 ### October 25, Thursday (3 hours)
  - [x] Read [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005.pdf)
  - [x] Read [Semantics derived automatically from language corpora necessarily contain human biases](http://www.cs.bath.ac.uk/~jjb/ftp/CaliskanSemantics-Arxiv.pdf)
