@@ -45,7 +45,7 @@ ___
 [Current Progress on Outline](https://docs.google.com/document/d/1sLckNjZThHiaYXWIy8-rjziD220nUSMqa196p6xxSyE/edit?usp=sharing)
 
 ### October 26, Friday (1 hour)
- - [x] Meeting with Mai
+ - [x] Meeting with Mai, took notes on paper
 
 ### October 25, Thursday (3 hours)
  - [x] Read [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005.pdf)
