@@ -36,6 +36,14 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
+### October 27, Saturday (3 hours)
+ - [x] Read [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/abs/1808.07231)
+ - [x] Skim [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf) and [Avoiding Discrimination through Causal Reasoning](http://papers.nips.cc/paper/6668-avoiding-discrimination-through-causal-reasoning.pdf)
+ - [x] Attend team meeting
+ 
+[Tentative Survey Paper Outline](https://docs.google.com/document/d/1wATwfczLcQ1kCHdylPhD_Il56Zfo5CeHLIMBMD4gsTw/edit?usp=sharing)
+[Current Progress on Outline](https://docs.google.com/document/d/1sLckNjZThHiaYXWIy8-rjziD220nUSMqa196p6xxSyE/edit?usp=sharing)
+
 ### October 26, Friday (1 hour)
  - [x] Meeting with Mai
 
