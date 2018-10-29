@@ -36,10 +36,12 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
-### October 28, Sunday (1.5 hours)
+### October 28, Sunday (2 hours)
  - [x] Formalize Literature Search Part 1
+ - [x] Work on Literature Search Part 2
  
  [Literature Search Part 1](https://docs.google.com/document/d/1JH_mQShiAsuMc_zww5af2VDbF_fF5XMGjvMRH9ouwTw/edit?usp=sharing)
+ [Literature Search Part 2](https://docs.google.com/document/d/1JH_mQShiAsuMc_zww5af2VDbF_fF5XMGjvMRH9ouwTw/edit?usp=sharing)
 
 ### October 27, Saturday (3 hours)
  - [x] Read [Reducing Gender Bias in Abusive Language Detection](https://arxiv.org/abs/1808.07231)
