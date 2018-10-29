@@ -42,6 +42,7 @@ ___
  - [x] Work on Literature Search Part 2
  
  [Literature Search Part 1](https://docs.google.com/document/d/1JH_mQShiAsuMc_zww5af2VDbF_fF5XMGjvMRH9ouwTw/edit?usp=sharing)
+ 
  [Literature Search Part 2](https://docs.google.com/document/d/1JH_mQShiAsuMc_zww5af2VDbF_fF5XMGjvMRH9ouwTw/edit?usp=sharing)
 
 ### October 27, Saturday (3 hours)
