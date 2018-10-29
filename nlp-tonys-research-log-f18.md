@@ -5,6 +5,7 @@ ___
 ## Survey Paper: Gender Bias in Natural Language Processing
    ### Soft deadlines
    - [ ] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
+     - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
    - [ ] 11/15: First draft of paper, 5-10 iterations before we submit
    ### Hard deadlines
    - [ ] 12/3: Abstract due
@@ -24,12 +25,12 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [ ] Attend ~~Professor William Wang's NLP research group meeting~~ [meeting cancelled due to Professor Wang attending EMNLP conference]
   - [x] Attend lab meeting with Mai and Professor Wang
   - [ ] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [ ] Finish outline of literature review paper
-  - [ ] Finalize list of papers to use
+  - [x] Finalize list of papers to use
 
 ### Meeting minutes with Professor Wang and Mai
   * ####    [Meeting Inputs](https://docs.google.com/document/d/14KhueElt5UMloa3rwZ0bKzZ4ZgDiGWSFJybp5XDRujc/edit?usp=sharing)
