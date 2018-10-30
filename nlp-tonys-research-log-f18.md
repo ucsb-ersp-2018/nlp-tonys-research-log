@@ -37,8 +37,11 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
-### October 29, Monday (1 hour)
+### October 30, Tuesday
+
+### October 29, Monday (1.5 hours)
  - [x] Finish Literature Search Part 2
+ - [x] Continue reading [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
  
  [Literature Search Part 2](https://docs.google.com/document/d/1Csxf0NTG1gNC9FSfE4ExCjFMECZMJK6qdytw9Gn2Oy8/edit?usp=sharing)
 
