@@ -37,7 +37,9 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
-### October 30, Tuesday
+### October 30, Tuesday (1 hour)
+ - [x] Read Should Computer Scientists Experiment More?
+ - [x] Start reading about [Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning)
 
 ### October 29, Monday (1.5 hours)
  - [x] Finish Literature Search Part 2
