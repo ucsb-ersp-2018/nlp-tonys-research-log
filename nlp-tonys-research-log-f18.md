@@ -37,6 +37,14 @@ ___
   * ####    [Meeting Outputs](https://docs.google.com/document/d/1QsWpE2g5CV5EGhrQdAF-bm-ULHqKIJE9qiAOl_C5_g4/edit?usp=sharing)
   * ####    [Last Week's Meeting Minutes](https://docs.google.com/document/d/1I66PzyQ8BvWalXakwMpZKOK9uR0sis5zxeFGHWztdH0/edit?usp=sharing)
 
+### October 31, Wednesday (1.5 hours)
+ - [x] Continue reading [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
+ - [x] Read more about adversarial networks
+ 
+#### [Mitigating Unwanted Biases with Adversarial Learning](https://arxiv.org/pdf/1801.07593.pdf)
+ * Information is quite dense, difficult to sift through
+ * Concept of GANs make sense, understanding how they apply to NLP is gradually becoming more clear but it will take time and effort
+
 ### October 30, Tuesday (1 hour)
  - [x] Read Should Computer Scientists Experiment More?
  - [x] Start reading about [Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning)
