@@ -21,13 +21,32 @@ ___
 * [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-## Week 5 (10/25-10/31)
+
+___
+
+
+## Week 6 (11/1-11/7)
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
+  - [ ] Attend lab meeting with Mai and Professor Wang
+  - [ ] Attend team meeting
+* Learn about ML / NLP fundamentals
+  - [ ] Finish outline of literature review paper
+  - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
+
+### November 1, Thursday (1.5 hours)
+ - [x] Meeting with team and Mai -- William is at the EMNLP conference
+ - [x] Contribute to survey paper
+
+## Week 5 (10/25-10/31)
+### Weekly Goals:
+* Go to all meetings!
+  - [x] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend ~~Professor William Wang's NLP research group meeting~~ [meeting cancelled due to Professor Wang attending EMNLP conference]
   - [x] Attend lab meeting with Mai and Professor Wang
-  - [ ] Attend team meeting
+  - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [ ] Finish outline of literature review paper
   - [x] Finalize list of papers to use
