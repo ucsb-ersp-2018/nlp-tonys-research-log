@@ -36,6 +36,11 @@ ___
   - [ ] Finish outline of literature review paper
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
 
+### November 2, Friday (1.5 hours)
+ - [x] Work on Pros and Cons and Future Direction of survey paper
+ 
+[Pros / Cons / Future Direction](https://docs.google.com/document/d/1URjDeIiGO__IfORDHKG_m_SO3Pl8t8pOOHmtGwjJ_Ls/edit?usp=sharing)
+
 ### November 1, Thursday (1.5 hours)
  - [x] Meeting with team and Mai -- William is at the EMNLP conference
  - [x] Contribute to survey paper
