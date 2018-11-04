@@ -4,7 +4,7 @@ ___
 
 ## Survey Paper: Gender Bias in Natural Language Processing
    ### Soft deadlines
-   - [ ] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
+   - [x] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
    - [ ] 11/15: First draft of paper, 5-10 iterations before we submit
    ### Hard deadlines
@@ -35,6 +35,10 @@ ___
 * Learn about ML / NLP fundamentals
   - [ ] Finish outline of literature review paper
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
+
+### November 3, Friday (4 hours)
+ - [x] Work on survey paper
+ - [x] Read [Getting Gender Right in Neural Machine Translation](http://aclweb.org/anthology/D18-1334)
 
 ### November 2, Friday (1.5 hours)
  - [x] Work on Pros and Cons and Future Direction of survey paper
