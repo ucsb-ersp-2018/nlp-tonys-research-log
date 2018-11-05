@@ -36,7 +36,11 @@ ___
   - [ ] Finish outline of literature review paper
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
 
-### November 3, Friday (4 hours)
+### November 4, Sunday (1.5 hours)
+ - [x] Work on survey paper
+ - [x] Review [Semantics derived automatically from language corpora contain human-like biases](http://science.sciencemag.org/content/356/6334/183)
+
+### November 3, Saturday (4 hours)
  - [x] Work on survey paper
  - [x] Read [Getting Gender Right in Neural Machine Translation](http://aclweb.org/anthology/D18-1334)
 
