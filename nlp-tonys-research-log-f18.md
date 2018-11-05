@@ -30,11 +30,14 @@ ___
 * Go to all meetings!
   - [ ] Attend both of the research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
-  - [ ] Attend lab meeting with Mai and Professor Wang
-  - [ ] Attend team meeting
+  - [x] Attend lab meeting with Mai
+  - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
-  - [ ] Finish outline of literature review paper
+  - [x] Finish outline of literature review paper
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
+  - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
+
+### November 5, Monday
 
 ### November 4, Sunday (1.5 hours)
  - [x] Work on survey paper
