@@ -37,7 +37,12 @@ ___
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
 
-### November 5, Monday
+### November 6, Tuesday
+
+### November 5, Monday (1.5 hours)
+ - [x] Review [Man is to Computer Programmer as Woman is to
+Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+ - [x] Coordinated with Professor Mirza and Mai about our goals and assignments over the quarter
 
 ### November 4, Sunday (1.5 hours)
  - [x] Work on survey paper
