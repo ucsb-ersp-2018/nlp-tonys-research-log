@@ -29,7 +29,7 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend both of the research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
+  - [x] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
   - [x] Attend lab meeting with Mai
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
@@ -41,7 +41,6 @@ ___
  - [x] Present PowerPoint on [Man is to Computer Programmer as Woman is to
 Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
 
-[Powerpoint Presentation on Debiasing Word Embeddings](https://drive.google.com/file/d/1_gWwPrUlpkcsh60ncbx_0sH9TDtCAKA5/view?usp=sharing)
 [Feedback from Professor Wang and NLP Group](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
 
 ### November 6, Tuesday (5 hours)
