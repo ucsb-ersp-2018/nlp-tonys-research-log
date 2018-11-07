@@ -38,10 +38,9 @@ ___
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
 
 ### November 7, Wednesday (1.5 hours)
- - [x] Present PowerPoint on [Man is to Computer Programmer as Woman is to
-Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+ - [x] Present PowerPoint on Debiasing Word Embeddings to Professor Wang and UCSB NLP group
 
-[Feedback from Professor Wang and NLP Group](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
+[Feedback on Debiasing Word Embeddings](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
 
 ### November 6, Tuesday (5 hours)
  - [x] Attend Intro to NLP Lecture
