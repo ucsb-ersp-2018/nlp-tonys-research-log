@@ -37,7 +37,32 @@ ___
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
 
-### November 6, Tuesday
+### November 7, Wednesday (1.5 hours)
+ - [x] Present PowerPoint on [Man is to Computer Programmer as Woman is to
+Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+
+[Powerpoint Presentation on Debiasing Word Embeddings](https://drive.google.com/file/d/1_gWwPrUlpkcsh60ncbx_0sH9TDtCAKA5/view?usp=sharing)
+[Feedback from Professor Wang and NLP Group](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
+
+### November 6, Tuesday (5 hours)
+ - [x] Attend Intro to NLP Lecture
+ - [x] Finish reviewing [Man is to Computer Programmer as Woman is to
+Homemaker? Debiasing Word Embeddings](http://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf)
+ - [x] Prepare for presentation tomorrow to Professor Wang and NLP Group
+
+[Powerpoint Presentation on Debiasing Word Embeddings](https://drive.google.com/file/d/1_gWwPrUlpkcsh60ncbx_0sH9TDtCAKA5/view?usp=sharing)
+
+#### Key Takeaways from Intro to NLP Lecture
+ * Word Sense Disambiguation (WSD) primarily utilizes two kinds of feature vectors
+   * Collocational features: features about words at specific positions near targer word, often limited to just word identity and POS
+   * Bag-of-words: features about words that occur anywhere in the window regardless of position
+   * Bootstrap WSD classifiers by building word sense classifiers with little training data
+ * Semi-supervised learning
+   * Yarowsky algorithm: Presents semi-supervised learning algorithm for WSD that can be applied to completely untagged text, uses decision lists
+   * We need semi-supervised learning algorithms in NLP because linguistic data is extremely difficult to annotate and there is a lack of labeled training data
+ * Properties of language
+   * One sense per collocation: nearby words provide strong, consistent clues as to the sense of a target word
+   * One sense per discourse: sense of a target word is highly consistent within a single document
 
 ### November 5, Monday (1.5 hours)
  - [x] Review [Man is to Computer Programmer as Woman is to
