@@ -28,7 +28,7 @@ ___
 ## Week 6 (11/1-11/7)
 ### Weekly Goals:
 * Go to all meetings!
-  - [ ] Attend both of the research methods lecture with Professor Mirza
+  - [x] Attend both of the research methods lecture with Professor Mirza
   - [x] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
   - [x] Attend lab meeting with Mai
   - [x] Attend team meeting
