@@ -37,8 +37,10 @@ ___
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
 
-### November 7, Wednesday (2.5 hours)
+### November 7, Wednesday (3.5 hours)
  - [x] Present PowerPoint on Debiasing Word Embeddings to Professor Wang and UCSB NLP group
+ - [x] Had team meeting to discuss feedback on Debiasing Word Embeddings
+ - [x] Discussed with Xin Wang other potential papers to read for the survey paper
  - [x] Read [article on non-Euclidean embeddings](https://medium.com/explorations-in-language-and-learning/beyond-euclidean-embeddings-c125bbd07398)
  
 [Feedback on Debiasing Word Embeddings](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
