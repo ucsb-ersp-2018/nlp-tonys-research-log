@@ -37,10 +37,22 @@ ___
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
 
-### November 7, Wednesday (1.5 hours)
+### November 7, Wednesday (2.5 hours)
  - [x] Present PowerPoint on Debiasing Word Embeddings to Professor Wang and UCSB NLP group
-
+ - [x] Read [article on non-Euclidean embeddings](https://medium.com/explorations-in-language-and-learning/beyond-euclidean-embeddings-c125bbd07398)
+ 
 [Feedback on Debiasing Word Embeddings](https://docs.google.com/document/d/1Fb-jKjkLvO8RhgQx80TkotEEvrIVefTpUYGhOYyTnDA/edit?usp=sharing)
+ 
+#### Key Takeaways from Non-Euclidean Embeddings
+ * Euclidean dot products are limited in that they cannot handle anti-symmetry, since dot products are commutative
+ * Four main types of non-Euclidean embeddings: Gaussian, Poincare, Holographic, and Complex
+   * Gaussian embeddings involve representations built on energy functions
+   * Poincare embeddings utilize hyperbolic geometry to better capture hierarchies in words -- in a tree structure, Euclidean models necessitate the exponential growth of dimensions to keep up with growth of leaf nodes (not easy to visualize more than 3 dimensions)
+   * Holographic embeddings seek to learn embeddings for relations within knowledge graphs as to better represent asymmetric relations
+   * Complex embeddings are useful for link prediction
+   
+Knowledge Graph Task: 
+> Given a set E of entities and a set P of relation types, the objective is to learn a characteristic function for each relation type that determines whether that relation exists between any two elements in E. The entities are referred to as the subject and the object.
 
 ### November 6, Tuesday (5 hours)
  - [x] Attend Intro to NLP Lecture
