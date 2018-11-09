@@ -24,18 +24,47 @@ ___
 
 ___
 
+## Week 7 (11/7-11/13)
+### Weekly Goals:
+* Go to all meetings!
+  - [ ] Attend research methods lecture with Professor Mirza
+  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [ ] Attend Intro to NLP lectures
+  - [ ] Attend lab meeting with Mai
+  - [ ] Attend team meeting
+* Learn about ML / NLP fundamentals
+  - [ ] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
+  - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
+ 
+### November 8, Thursday (3 hours)
+ - [x] Attend Intro to NLP lecture
+ - [x] Attend Yann Lecun's guest lecture on self-supervised learning
+ - [x] Update Mai on Debiasing Word Embeddings presentation and suggest potential adjustments for future directions section in survey paper
+ - [x] Learn more about co-occurence matrices and word embeddings
+ 
+#### Key Takeaways from Intro to NLP lecture
+ * Term-document matrix
+   * Same idea as co-occurrence or term-context matrix: counts of terms in a document / limited window
+   * Documents might be similar if they have similar column vectors, and two words are similar if their row vectors are similar
+ * Positive Pointwise Mutual Information
+   * Do words x and y co-occur more than if they were independent?
+   * Range for possible PMI is (-inf, inf)
+     * Negative for words that occur frequently but not together, such as stopwords
+     * Positive for words that when they appear, they appear together, such as “carbon dioxide” or “San Francisco”
+   * PPMI replaces negative values with 0
 
 ## Week 6 (11/1-11/7)
 ### Weekly Goals:
 * Go to all meetings!
   - [x] Attend both of the research methods lecture with Professor Mirza
   - [x] Attend Professor William Wang's NLP research group meeting and present Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings Paper
+  - [x] Attend Intro to NLP lecture
   - [x] Attend lab meeting with Mai
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [x] Finish outline of literature review paper
   - [ ] Understand Mitigating Unwanted Bias with Adversarial Learning paper
-  - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
+  - [ ] ~~Work on rough draft of survey paper with feedback from Mai and Professor Wang~~ (will get feedback next week)
 
 ### November 7, Wednesday (3.5 hours)
  - [x] Present PowerPoint on Debiasing Word Embeddings to Professor Wang and UCSB NLP group
