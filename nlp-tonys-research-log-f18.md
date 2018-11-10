@@ -36,7 +36,9 @@ ___
   - [ ] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
-### November 9, Friday (2.5 hours)
+ ### November 10, Saturday
+ 
+ ### November 9, Friday (2.5 hours)
  - [x] Look into knowledge graphs as possibility for future direction section of paper
  - [x] Attend lab meeting with Mai
 
@@ -45,7 +47,7 @@ ___
  * When you search for an entity on Google, the knowledge graph will produce a card / panel on the right with relevant information to the query along with related searches
  * Sources of bias
    * Knowledge graphs are different from word embeddings in the sense that they are nonlinear representation of knowledge (no cosine similarity) and map words in a vocabulary to real-life entities
-   * Perhaps there's bias in the “people also search for section" if there are fewer links to men than women when the entity is *receptionist*
+   * Perhaps there's bias in the “people also search for section" if there are more links to women than men, could also amplify bias if skewed distribution relative to actual searches
 
 [Full Notes on Knowledge Graphs](https://docs.google.com/document/d/1ez0Z03SSxP93DHaviTIs-mzLaFG5PXWaUwZ7hTXiBNY/edit?usp=sharing)
 
