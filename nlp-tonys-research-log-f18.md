@@ -36,11 +36,13 @@ ___
   - [ ] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
- ### November 10, Saturday
+ ### November 10, Saturday (3 hours)
+ - [x] Attend team meeting
+ - [x] Work on survey paper rough draft
  
  ### November 9, Friday (2.5 hours)
  - [x] Look into knowledge graphs as possibility for future direction section of paper
- - [x] Attend lab meeting with Mai
+ - [x] Attend lab meeting with Mai and get feedback on survey paper outline
 
 #### Key Takeaways from Knowledge Graphs
  * Knowledge graphs can be thought of as an ontology page / semantic network / graph-based knowledge representation
