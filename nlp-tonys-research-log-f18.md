@@ -36,6 +36,11 @@ ___
   - [ ] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
+ ### November 11, Sunday (4 hours)
+ - [x] Revised and contributed to survey paper
+ - [x] Suggest edits for every section of paper as it currently stands
+ - [x] Communicate with team regarding biased datasets section
+ 
  ### November 10, Saturday (3 hours)
  - [x] Attend team meeting
  - [x] Work on survey paper rough draft
