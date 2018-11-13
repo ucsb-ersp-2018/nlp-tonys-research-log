@@ -31,10 +31,15 @@ ___
   - [ ] Attend Professor William Wang's NLP research group meeting
   - [ ] Attend Intro to NLP lectures
   - [x] Attend lab meeting with Mai
-  - [ ] Attend team meeting
+  - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
-  - [ ] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
+  - [x] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
+ 
+ ### November 12, Monday (2.5 hours)
+ - [x] Contribute to research paper rough draft
+ - [x] Discuss with team how to make paper concise and succint
+ - [x] Clarify information regarding adversarial learning and how it pertains to NLP
  
  ### November 11, Sunday (4 hours)
  - [x] Revised and contributed to survey paper
