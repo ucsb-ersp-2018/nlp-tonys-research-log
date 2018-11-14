@@ -36,21 +36,36 @@ ___
   - [x] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
- ### November 12, Monday (2.5 hours)
+### November 13, Tuesday (3 hours)
+ - [x] Attend team meeting to discuss survey paper
+ - [x] Attend Intro to NLP lecture to better understand how word embeddings are formed
+ 
+### Key Takeaways from Intro to NLP Lecture
+ * Dense matrices with fewer dimensions can represent a sparse matrix with a greater number of dimensions by grouping similar terms together for each element
+ * We can use singular value decomposition (SVD), neural language models, or brown clustering to get short, dense vectors
+ * For SVD, we decompose larger square real-valued matrix into its eigenvectors and diagonal matrix because the effect of small eigenvalues (and their eigenvectors) on a matrix-vector product is small
+   * Each row of *W* matrix is a k-dimensional representation of each word *w*
+   * Dense SVD embeddings sometimes work better than sparse PPMI matrices at tasks like word similarity b/c of denoising and truncation which prevent overfitting; also, having smaller number of dimensions may make it easier for classifiers to properly weight the dimensions for the task
+   * [More info about SVD from Facebook research](https://research.fb.com/fast-randomized-svd/)
+ * One way to measure accuracy of word embedding is correlation with human evaluation of semantic meaning (humans are baseline)
+
+![SVD](https://research.fb.com/wp-content/uploads/2016/11/post00049_image0001.png)
+
+### November 12, Monday (2.5 hours)
  - [x] Contribute to research paper rough draft
  - [x] Discuss with team how to make paper concise and succint
  - [x] Clarify information regarding adversarial learning and how it pertains to NLP
  
- ### November 11, Sunday (4 hours)
+### November 11, Sunday (4 hours)
  - [x] Revised and contributed to survey paper
  - [x] Suggest edits for every section of paper as it currently stands
  - [x] Communicate with team regarding biased datasets section
  
- ### November 10, Saturday (3 hours)
+### November 10, Saturday (3 hours)
  - [x] Attend team meeting
  - [x] Work on survey paper rough draft
  
- ### November 9, Friday (2.5 hours)
+### November 9, Friday (2.5 hours)
  - [x] Look into knowledge graphs as possibility for future direction section of paper
  - [x] Attend lab meeting with Mai and get feedback on survey paper outline
 
