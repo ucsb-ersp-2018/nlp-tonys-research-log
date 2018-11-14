@@ -29,7 +29,7 @@ ___
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
   - [ ] Attend Professor William Wang's NLP research group meeting
-  - [ ] Attend Intro to NLP lectures
+  - [x] Attend Intro to NLP lectures
   - [x] Attend lab meeting with Mai
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
@@ -40,7 +40,7 @@ ___
  - [x] Attend team meeting to discuss survey paper
  - [x] Attend Intro to NLP lecture to better understand how word embeddings are formed
  
-### Key Takeaways from Intro to NLP Lecture
+#### Key Takeaways from Intro to NLP Lecture
  * Dense matrices with fewer dimensions can represent a sparse matrix with a greater number of dimensions by grouping similar terms together for each element
  * We can use singular value decomposition (SVD), neural language models, or brown clustering to get short, dense vectors
  * For SVD, we decompose larger square real-valued matrix into its eigenvectors and diagonal matrix because the effect of small eigenvalues (and their eigenvectors) on a matrix-vector product is small
