@@ -34,11 +34,17 @@ ___
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [x] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
-  - [ ] Work on rough draft of survey paper with feedback from Mai and Professor Wang
+  - [x] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
-### November 13, Tuesday (3 hours)
+### November 14, Wednesday (1.5 hours)
+ - [x] Attend Professor William Wang's NLP research group meeting, learn about posterior attention models
+ - [x] Create title for research paper
+ - [x] Contribute to research paper
+
+### November 13, Tuesday (4.5 hours)
  - [x] Attend team meeting to discuss survey paper
  - [x] Attend Intro to NLP lecture to better understand how word embeddings are formed
+ - [x] Work on bias observation, debiasing techniques, and future direction sections of research paper rough draft
  
 #### Key Takeaways from Intro to NLP Lecture
  * Dense matrices with fewer dimensions can represent a sparse matrix with a greater number of dimensions by grouping similar terms together for each element
@@ -52,7 +58,7 @@ ___
 ![SVD](https://research.fb.com/wp-content/uploads/2016/11/post00049_image0001.png)
 
 ### November 12, Monday (2.5 hours)
- - [x] Contribute to research paper rough draft
+ - [x] Contribute and make revisions to research paper rough draft
  - [x] Discuss with team how to make paper concise and succint
  - [x] Clarify information regarding adversarial learning and how it pertains to NLP
  
