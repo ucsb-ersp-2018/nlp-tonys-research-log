@@ -24,11 +24,21 @@ ___
 
 ___
 
-## Week 7 (11/7-11/13)
+## Week 8 (11/14-11/20)
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
-  - [ ] Attend Professor William Wang's NLP research group meeting
+  - [ ] Attend Intro to NLP lecture
+* Learn about ML / NLP fundamentals
+  - [ ] Work on second iteration of rough draft
+
+### November 15, Thursday
+
+## Week 7 (11/7-11/13)
+### Weekly Goals:
+* Go to all meetings!
+  - [x] Attend research methods lecture with Professor Mirza
+  - [x] Attend Professor William Wang's NLP research group meeting
   - [x] Attend Intro to NLP lectures
   - [x] Attend lab meeting with Mai
   - [x] Attend team meeting
@@ -36,10 +46,11 @@ ___
   - [x] Clarify questions regarding Mitigating Unwanted Bias with Adversarial Learning paper
   - [x] Work on rough draft of survey paper with feedback from Mai and Professor Wang
  
-### November 14, Wednesday (1.5 hours)
- - [x] Attend Professor William Wang's NLP research group meeting, learn about posterior attention models
+### November 14, Wednesday (4 hours)
+ - [x] Attend Professor Wang's NLP research group meeting, learn about posterior attention models
  - [x] Create title for research paper
- - [x] Contribute to research paper
+ - [x] Edit and contribute to the abstract, introduction, datasets, and adversarial learning sections of research paper rough draft
+ - [x] Turn in rough draft to Mai and Professor Wang
 
 ### November 13, Tuesday (4.5 hours)
  - [x] Attend team meeting to discuss survey paper
