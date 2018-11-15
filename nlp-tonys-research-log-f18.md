@@ -6,7 +6,7 @@ ___
    ### Soft deadlines
    - [x] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
-   - [ ] 11/15: First draft of paper, 5-10 iterations before we submit
+   - [x] 11/15: First draft of paper, 5-10 iterations before we submit
    ### Hard deadlines
    - [ ] 12/3: Abstract due
    - [ ] 12/10: Full Paper
