@@ -28,11 +28,23 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
-  - [ ] Attend Intro to NLP lecture
+  - [x] Attend Intro to NLP lecture
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
 
-### November 15, Thursday
+### November 17, Saturday (2 hours)
+ - [x] Attend team meeting
+ - [x] Revise rough draft and look into manipulating GN-GloVe word embeddings
+
+### November 16, Friday (2.5 hours)
+ - [x] Attend research methods lecture
+ - [x] Attend team meeting with Mai
+ - [x] Discuss further feedback and things to work on for next iteration of rough draft
+
+### November 15, Thursday (2.5 hours)
+ - [x] Attend Intro to NLP lecture
+ - [x] Have team meeting with Mai and Professor Wang
+ - [x] Took notes regarding feedback on paper copy of rough draft
 
 ## Week 7 (11/7-11/13)
 ### Weekly Goals:
