@@ -31,8 +31,14 @@ ___
   - [x] Attend Intro to NLP lecture
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
+  
+### November 19, Monday
 
-### November 17, Saturday (2 hours)
+### November 18, Sunday (2 hours)
+ - [x] Work on rough draft of research paper
+ - [x] Provide [feedback for HCI proposal](https://docs.google.com/document/d/1PFD3rHPoXuTQfqXaQLrFSqlwVQ3WXEnfMnfspWoyIZA/edit?usp=sharing)
+
+### November 17, Saturday (2.5 hours)
  - [x] Attend team meeting
  - [x] Revise rough draft and look into manipulating GN-GloVe word embeddings
 
