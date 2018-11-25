@@ -3,11 +3,9 @@
 ___
 
 ## Survey Paper: Gender Bias in Natural Language Processing
-   ### Soft deadlines
    - [x] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
    - [x] 11/15: First draft of paper, 5-10 iterations before we submit
-   ### Hard deadlines
    - [ ] 12/3: Abstract due
    - [ ] 12/10: Full Paper
 
@@ -24,15 +22,27 @@ ___
 
 ___
 
-## Week 8 (11/14-11/20)
+## Week 9 (11/21-11/27)
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
-  - [x] Attend Intro to NLP lecture
+  - [ ] Attend Intro to NLP lecture
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
   
-### November 19, Monday
+### November 20, Saturday
+
+## Week 8 (11/14-11/20)
+### Weekly Goals:
+* Go to all meetings!
+  - [x] Attend research methods lecture with Professor Mirza
+  - [x] Attend Intro to NLP lecture
+* Learn about ML / NLP fundamentals
+  - [x] Work on second iteration of rough draft
+  
+### November 19, Monday (1.5 hours)
+ - [x] Attend research methods lecture
+ - [x] Get feedback on rough draft of survey paper
 
 ### November 18, Sunday (2 hours)
  - [x] Work on rough draft of research paper
