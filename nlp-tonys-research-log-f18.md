@@ -30,7 +30,10 @@ ___
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
   
-### November 20, Saturday
+### November 20, Saturday (4.5 hours)
+ - [x] Work on abstract and introduction of research paper rough draft
+ - [x] Go through Sections 2, 3, and 4 and make editing suggestions
+ - [x] Create gender bias in machine translation diagram
 
 ## Week 8 (11/14-11/20)
 ### Weekly Goals:
