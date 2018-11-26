@@ -30,6 +30,9 @@ ___
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
   
+### November 21, Sunday (1 hour)
+ - [x] Make minor edits to research paper rough draft
+
 ### November 20, Saturday (4.5 hours)
  - [x] Work on abstract and introduction of research paper rough draft
  - [x] Go through Sections 2, 3, and 4 and make editing suggestions
