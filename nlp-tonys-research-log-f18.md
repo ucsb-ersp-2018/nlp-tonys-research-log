@@ -30,10 +30,13 @@ ___
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
   
-### November 21, Sunday (1 hour)
+### November 26, Monday (2.5 hours)
+ - [x] Work on generating analogies using debiased word embeddings
+
+### November 25, Sunday (1 hour)
  - [x] Make minor edits to research paper rough draft
 
-### November 20, Saturday (4.5 hours)
+### November 24, Saturday (4.5 hours)
  - [x] Work on abstract and introduction of research paper rough draft
  - [x] Go through Sections 2, 3, and 4 and make editing suggestions
  - [x] Create gender bias in machine translation diagram
