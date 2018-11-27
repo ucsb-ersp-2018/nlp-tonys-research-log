@@ -30,8 +30,12 @@ ___
 * Learn about ML / NLP fundamentals
   - [ ] Work on second iteration of rough draft
   
+### November 27, Tuesday
+
 ### November 26, Monday (2.5 hours)
- - [x] Work on generating analogies using debiased word embeddings
+ - [x] Play around with generating analogies using debiased word embeddings
+ - [x] Contribute to second round of rough draft research paper
+ - [x] Quick meeting with team and Mai to discuss current progress
 
 ### November 25, Sunday (1 hour)
  - [x] Make minor edits to research paper rough draft
