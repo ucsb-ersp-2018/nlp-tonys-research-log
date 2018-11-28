@@ -26,11 +26,16 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
-  - [ ] Attend Intro to NLP lecture
+  - [x] Attend Intro to NLP lecture
 * Learn about ML / NLP fundamentals
-  - [ ] Work on second iteration of rough draft
+  - [x] Work on second iteration of rough draft
   
-### November 27, Tuesday
+### November 27, Tuesday (5 hours)
+ - [x] Attend Intro to NLP lecture
+ - [x] Make improvements to gender bias in machine translation diagram
+ - [x] Make edits to second iteration of rough draft
+ - [x] Reread a few papers
+ - [x] Attend meeting with team and Mai to discuss how we should structure evaluation and test data sets
 
 ### November 26, Monday (2.5 hours)
  - [x] Play around with generating analogies using debiased word embeddings
