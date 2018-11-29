@@ -30,6 +30,14 @@ ___
 * Learn about ML / NLP fundamentals
   - [x] Work on second iteration of rough draft
   
+### November 28, Wednesday (7.5 hours)
+ - [x] Get feedback from Professor Mirza and Mai on introduction and sections 2 - 4 and discuss how to restructure these parts
+ - [x] Rewrite abstract
+ - [x] Work on rewriting introduction
+ - [x] Update machine translation diagram
+ - [x] Create bias observation and evaluation diagram
+ - [x] Cut down on parts of section 5
+
 ### November 27, Tuesday (5 hours)
  - [x] Attend Intro to NLP lecture
  - [x] Make improvements to gender bias in machine translation diagram
