@@ -22,10 +22,27 @@ ___
 
 ___
 
-## Week 9 (11/21-11/27)
+## Week 10 (11/29-12/5)
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
+  - [ ] Attend Intro to NLP lecture
+* Learn about ML / NLP fundamentals
+  - [ ] Work on research paper
+  - [ ] Submit abstract to NAACL 2019
+  
+### November 29, Thursday (8.5 hours)
+ - [x] Continue fleshing out abstract and introduction
+ - [x] Meet with team, Mai, and Professor Wang to discuss abstract of paper, submission details, and areas we might want to explore
+ - [x] Update machine translation and bias observation / debiasing diagrams
+ - [x] Discuss ethics of bias with team
+ - [x] Reread gender tagging paper to better understand how it fits in the context of our paper
+ - [x] Make edits and suggestions to sections 2 - 4 of paper
+
+## Week 9 (11/24-11/28)
+### Weekly Goals:
+* Go to all meetings!
+  - [x] Attend research methods lecture with Professor Mirza
   - [x] Attend Intro to NLP lecture
 * Learn about ML / NLP fundamentals
   - [x] Work on second iteration of rough draft
@@ -58,7 +75,7 @@ ___
  - [x] Go through Sections 2, 3, and 4 and make editing suggestions
  - [x] Create gender bias in machine translation diagram
 
-## Week 8 (11/14-11/20)
+## Week 8 (11/15-11/19)
 ### Weekly Goals:
 * Go to all meetings!
   - [x] Attend research methods lecture with Professor Mirza
@@ -88,7 +105,7 @@ ___
  - [x] Have team meeting with Mai and Professor Wang
  - [x] Took notes regarding feedback on paper copy of rough draft
 
-## Week 7 (11/7-11/13)
+## Week 7 (11/8-11/14)
 ### Weekly Goals:
 * Go to all meetings!
   - [x] Attend research methods lecture with Professor Mirza
