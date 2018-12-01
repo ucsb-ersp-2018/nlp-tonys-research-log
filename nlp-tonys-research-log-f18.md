@@ -26,11 +26,29 @@ ___
 ### Weekly Goals:
 * Go to all meetings!
   - [ ] Attend research methods lecture with Professor Mirza
-  - [ ] Attend Intro to NLP lecture
+  - [x] Attend team meeting with Professor Wang and Mai
+  - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
+  - [x] Interview graduate student
   - [ ] Work on research paper
   - [ ] Submit abstract to NAACL 2019
   
+### December 1, Saturday (3.5 hours)
+ - [x] Meet with team to work on research paper
+ - [x] Provide reflections for graduate student interview
+
+[Chengyuan Interview Notes](https://docs.google.com/document/d/1dK0OGg70eS5NR6byvXkMkVguF0vc5CGKFzb3H6KpPAY/edit?usp=sharing)
+
+Graduate Student Interview Reflection:
+> Finally, write a 1-paragraph reflection about what you learned from your interview.  Address any or all of the following questions (or others): What surprised you, if anything?  What did you learn that you didn't know already?  What did you find most interesting?  Do you feel the grad student life is less mysterious (and how so)?
+
+First of all, I want to thank Chengyuan Xu (CY), our interviewee, for taking time out of his day to tell us about his experience as a PhD. student in Media Arts and Technology and UCSB. Overall, I think the interview was really insightful. From my understanding, CY decided to go back to school because he wanted to understand better the inner workings of a camera rather than just knowing how to use one. By combining computer vision and NLP, his work might be able to automate or at least facilitate the process of editing film. However, in Media Arts and Technology, CY said that there usually is not much overlap between projects, making collaboration difficult. This, in turn, adds to the pressure to publish papers and graduate within a reasonable amount of time, because for CY, he will be working alone on his projects for the forseeable future. On the bright side, CY commented that he has a lot of freedom to do whatever it is he is passionate about. He gave this analogy to us: if all of humankind's knowledge can be represented by a circle, a PhD. candidate's dissertation will be a tiny dot on the edge of the circle. Essentially, your work as a PhD. student will be focused on a very narrow niche in your field, but it will be satisfying to know that you will be the best at it. All in all, I definitely think that CY was able to successfully shed light on the graduate student life by providing his own insights and knowledge. Moving forward, this will most certainly be a valuable experience when I consider whether or not gradudate school is right for me.
+
+### November 30, Friday (5 hours)
+ - [x] Meet with April and Cynthia to interview Chengyuan Xu regarding his experience as a PhD. student in Media Arts and Technology
+ - [x] Reread a few of the papers regarding debiasing methods
+ - [x] Meet with Mai and Andrew to clarify ideas and discuss improvements for sections 4 and 5
+
 ### November 29, Thursday (8.5 hours)
  - [x] Continue fleshing out abstract and introduction
  - [x] Meet with team, Mai, and Professor Wang to discuss abstract of paper, submission details, and areas we might want to explore
