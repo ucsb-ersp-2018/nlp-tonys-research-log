@@ -32,7 +32,12 @@ ___
   - [x] Interview graduate student
   - [ ] Work on research paper
   - [ ] Submit abstract to NAACL 2019
-  
+
+### December 2, Sunday (3 hours)
+ - [x] Review word embeddings and watch video on [The Trouble of Bias from NIPS 2017](https://www.youtube.com/watch?v=fMym_BKWQzk&t=1440s)
+ - [x] Revise abstract and rewrite contributions
+ - [x] Communicate with team and Professor Wang regarding how to move forward with abstract submission and collaboration with Kai-wei and Jieyu
+
 ### December 1, Saturday (3.5 hours)
  - [x] Meet with team to work on research paper
  - [x] Provide reflections for graduate student interview
