@@ -6,7 +6,7 @@ ___
    - [x] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
    - [x] 11/15: First draft of paper, 5-10 iterations before we submit
-   - [ ] 12/3: Abstract due
+   - [x] 12/3: Abstract due
    - [ ] 12/10: Full Paper
 
 ___
@@ -30,8 +30,17 @@ ___
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
   - [x] Interview graduate student
-  - [ ] Work on research paper
-  - [ ] Submit abstract to NAACL 2019
+  - [x] Work on research paper
+  - [x] Submit abstract to NAACL 2019
+
+### December 5, Wednesday
+
+### December 4, Tuesday (2 hours)
+ - [x] Meet with team and Professor Wang and discuss how to improve paper with Professor Kai-wei Chang and Ph.D. candidate Jieyu Zhao
+
+### December 3, Monday (3 hours)
+ - [x] Get feedback from Professor Mirza and Mai
+ - [x] Meet with team to revise abstract
 
 ### December 2, Sunday (3 hours)
  - [x] Review word embeddings and watch video on [The Trouble of Bias from NIPS 2017](https://www.youtube.com/watch?v=fMym_BKWQzk&t=1440s)
