@@ -33,7 +33,9 @@ ___
   - [x] Work on research paper
   - [x] Submit abstract to NAACL 2019
 
-### December 5, Wednesday
+### December 5, Wednesday (4.5 hours)
+ - [x] Discuss with team [how to implement tables](https://docs.google.com/document/d/1_lDWPJBzmSs5dbeVDm60fCfyq1Viwdd7E8NQ8AvO0Qk/edit?usp=sharing) into paper
+ - [x] Add allocation vs representation bias to the paper
 
 ### December 4, Tuesday (2 hours)
  - [x] Meet with team and Professor Wang and discuss how to improve paper with Professor Kai-wei Chang and Ph.D. candidate Jieyu Zhao
