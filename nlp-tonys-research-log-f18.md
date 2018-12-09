@@ -22,10 +22,33 @@ ___
 
 ___
 
+## Finals Week (12/6-12/12)
+### Weekly Goals:
+  - [ ] Paper presentation
+  - [x] Attend NAACL internal review
+  - [ ] Attend Monday NAACL Review meeting
+  - [ ] Submit paper
+
+### December 8, Saturday (5 hours)
+ - [x] Meet with team to discuss how to move forward
+ - [x] Review [The Trouble with Bias](https://www.youtube.com/watch?v=fMym_BKWQzk)
+ - [x] Rewrite section on representation bias in introduction with Kai-wei's comments in mind
+ - [x] Make edits to Sections 2, 3, and Future Directions of paper
+
+### December 7, Friday (3.5 hours)
+ - [x] Attend NAACL internal review
+ - [x] Write first draft of restructured introduction
+ - [x] Brainstorm ideas to restructure Section 2
+
+### December 6, Thursday (4 hours)
+ - [x] Meet with Professor Wang to discuss how to structure tables
+ - [x] Meet with Professor Mirza and Mai to discuss current direction and things to work on
+ - [x] Work on research paper
+
 ## Week 10 (11/29-12/5)
 ### Weekly Goals:
 * Go to all meetings!
-  - [ ] Attend research methods lecture with Professor Mirza
+  - [x] Attend research methods lecture with Professor Mirza
   - [x] Attend team meeting with Professor Wang and Mai
   - [x] Attend team meeting
 * Learn about ML / NLP fundamentals
