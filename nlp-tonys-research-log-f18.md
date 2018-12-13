@@ -7,7 +7,8 @@ ___
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
    - [x] 11/15: First draft of paper, 5-10 iterations before we submit
    - [x] 12/3: Abstract due
-   - [ ] 12/10: Full Paper
+   - [x] 12/10: Full Paper
+     - We did it!
 
 ___
 
@@ -26,8 +27,13 @@ ___
 ### Weekly Goals:
   - [ ] Paper presentation
   - [x] Attend NAACL internal review
-  - [ ] Attend Monday NAACL Review meeting
-  - [ ] Submit paper
+  - [x] Submit paper
+  
+### December 10, Monday (11.5 hours)
+ - [x] Finish the final draft of the research paper!
+
+### December 9, Sunday (4 hours)
+ - [x] Work on research paper
 
 ### December 8, Saturday (5 hours)
  - [x] Meet with team to discuss how to move forward
