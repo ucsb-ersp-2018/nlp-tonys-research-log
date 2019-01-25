@@ -2,6 +2,9 @@
 
 ___
 
+Our research paper from this quarter, *Debiasing Gender in Natural Language Processing: TLiterature Review and Methodological Critique* is currently under NAACL review.
+___
+
 ## Survey Paper: Gender Bias in Natural Language Processing
    - [x] 10/30: Outline of paper, finalize set of papers (we should probably try to finalize papers a week in advance though)
      - [Final set of papers](https://docs.google.com/document/d/1t4uOjNH62jzpmNbRx0N_OIGs_SQH2VLU4unq4ApMydQ/edit?usp=sharing)
@@ -20,12 +23,11 @@ ___
 * [Speech and Language Processing Course by Dan Jurafksy and James Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Stanford NLP Lecture Series](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-
 ___
 
 ## Finals Week (12/6-12/12)
 ### Weekly Goals:
-  - [ ] Paper presentation
+  - [x] Paper presentation
   - [x] Attend NAACL internal review
   - [x] Submit paper
   
