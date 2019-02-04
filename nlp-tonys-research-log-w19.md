@@ -30,6 +30,10 @@ ___
 ### February 1, Friday (1 hour)
 - [x] Meet with team and May for ERSP meeting
 
+![Week 3 ERSP_Tony](https://user-images.githubusercontent.com/36688734/52200699-59aab380-281e-11e9-9522-26417eecc6f4.png)
+
+* Went to last quarter's log to review how to upload an image!
+
 ### January 30, Wednesday (3.5 hours)
 - [x] Read [BERT paper](https://arxiv.org/pdf/1810.04805.pdf) and [BERT article](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 
