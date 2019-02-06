@@ -18,10 +18,10 @@ ___
 
 ## Week 5 (2/4-2/10)
 
-### February 6, Tuesday (0.5 hours)
+### February 5, Tuesday (0.5 hours)
 - [x] Look through a bit of the [BERT github](https://github.com/google-research/bert)
 
-### February 5, Monday (1.5 hours)
+### February 4, Monday (1.5 hours)
 - [x] Attend deep learning reading group meeting
 - [x] Review chapters 1 and 2 of the deep learning book by Goodfellow
 
