@@ -16,7 +16,18 @@ ___
 
 ___
 
-## Week 3 (1/28-2/3)
+## Week 5 (2/4-2/10)
+
+### February 6, Tuesday (0.5 hours)
+- [x] Look through a bit of the [BERT github](https://github.com/google-research/bert)
+
+### February 5, Monday (1.5 hours)
+- [x] Attend deep learning reading group meeting
+- [x] Review chapters 1 and 2 of the deep learning book by Goodfellow
+
+___
+
+## Week 4 (1/28-2/3)
 
 ### February 3, Sunday (3 hours)
 - [x] Update Github log
@@ -54,7 +65,7 @@ Here's a passage on how it works more specifically:
 * Multiplying the output vectors by the embedding matrix, transforming them into the vocabulary dimension.
 * Calculating the probability of each word in the vocabulary with softmax.
 
-## Week 2 (1/21-1/27)
+## Week 3 (1/21-1/27)
 
 ## January 26, Saturday (1.5 hours)
 - [x] Continue to read about [BERT](http://jalammar.github.io/illustrated-bert/)
