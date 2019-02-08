@@ -16,7 +16,29 @@ ___
 
 ___
 
-## Week 5 (2/4-2/10)
+## Week 5 (2/4-2/10)]
+
+![Week 5_ERSP](https://user-images.githubusercontent.com/36688734/52473439-a35f0b00-2b4a-11e9-9e58-5d2627077954.png)
+
+### February 6, Thursday (5 hours)
+- [x] Read [Google's blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [Medium article](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) on BERT
+- [x] Sift through SQuAD 2.0 and 1.1 [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+- [x] Watch lecture on [recurrent neural networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [x] Set up [virtual environment](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46) for Python on Jupyter Notebook
+- [x] Read about BERT fine-tuning with [Google's Cloud GPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=191zq3ZErihP)
+- [x] Tried running some test code on spam classification but was running into issues with tensorflow
+
+Key Takeaways
+ * To my understanding, BERT outputs pre-trained contextualized word embeddings that can be fine-tuned to your task at hand, e.g. QA, using token, segment, and position embeddings to represent the input
+   * BERT is deeply bidirectional, unsupervised language representation, pre-trained using only a plain text corpus because it uses the concept of language modeling and masks to make use of bidirectional representation
+ * We can try to analyze BERT for gender bias for tasks on which it is fine-tuned, such as question answering
+   * The current state-of-the-art QA dataset is the [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) dataset by Stanford
+   * However, I did not find that the dataset that is geared specifically towards gender and the answers are all very factual, 1-word, which makes it difficult to analyze outside the context of accuracy
+   * I think to tease out bias we should try to use BERT, train with [Cloud GPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/bert_finetuning_with_cloud_tpus.ipynb#scrollTo=191zq3ZErihP) to fine-tune on some QA dataset (still looking for one that would fit our needs) relating to gender and evaluate results
+
+   
+
+[Meeting Inputs](https://docs.google.com/document/d/1X6ya88bv5dJSX9SDihWyKOzd4EmcFa-fFpbzBH7V2QM/edit?usp=sharing) for tomorrow's meeting 
 
 ### February 5, Tuesday (0.5 hours)
 - [x] Look through a bit of the [BERT github](https://github.com/google-research/bert)
@@ -41,7 +63,7 @@ ___
 ### February 1, Friday (1 hour)
 - [x] Meet with team and May for ERSP meeting
 
-![Week 3 ERSP_Tony](https://user-images.githubusercontent.com/36688734/52200699-59aab380-281e-11e9-9522-26417eecc6f4.png)
+![Week 4_ERSP](https://user-images.githubusercontent.com/36688734/52470503-2a0fea00-2b43-11e9-9e04-0c5849ad9392.png)
 
 * Went to last quarter's log to review how to upload an image!
 
