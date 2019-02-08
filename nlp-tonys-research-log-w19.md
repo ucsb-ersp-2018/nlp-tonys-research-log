@@ -18,7 +18,7 @@ ___
 
 ## Week 5 (2/4-2/10)]
 
-![Week 5_ERSP](https://user-images.githubusercontent.com/36688734/52473439-a35f0b00-2b4a-11e9-9e58-5d2627077954.png)
+![Week 5_ERSP](https://user-images.githubusercontent.com/36688734/52473520-d903f400-2b4a-11e9-85aa-a222728d54c7.png)
 
 ### February 6, Thursday (5 hours)
 - [x] Read [Google's blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [Medium article](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) on BERT
