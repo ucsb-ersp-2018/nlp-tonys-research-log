@@ -18,6 +18,13 @@ ___
 
 ## Week 5 (2/4-2/10)]
 
+### February 7, Friday (3 hours)
+- [x] Attend ERSP meeting
+- [x] 1-on-1 with May
+- [x] Tried running [code](https://github.com/google-research/bert) for BERT, still running into issues with packages -- will continue to look into this
+
+[Meeting Outputs](https://docs.google.com/document/d/1Rlk-RX5eZ7EK8nIAAn5iFOtBlJ8KvM_7hzQSnD_ONXk/edit?usp=sharing)
+
 ![Week 5_ERSP](https://user-images.githubusercontent.com/36688734/52473520-d903f400-2b4a-11e9-85aa-a222728d54c7.png)
 
 ### February 6, Thursday (5 hours)
