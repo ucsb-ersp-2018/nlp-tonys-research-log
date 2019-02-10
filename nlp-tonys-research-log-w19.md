@@ -18,6 +18,11 @@ ___
 
 ## Week 5 (2/4-2/10)]
 
+### Saturday 8, Saturday (4 hours)
+- [x] Read about different types of [word embedding models](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec) and the [attention mechanism](https://skymind.ai/wiki/attention-mechanism-memory-network)
+- [x] Learn how to use AWS servers
+- [x] Spent a lot of time trying to run [test code](http://hunterheidenreich.com/blog/elmo-word-vectors-in-keras/) on local machine and on AWS machine -- fixed some issues from yesterday but new tensorflow problems are still cropping up
+
 ### February 7, Friday (3 hours)
 - [x] Attend ERSP meeting
 - [x] 1-on-1 with May
