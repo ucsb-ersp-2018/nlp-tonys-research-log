@@ -16,14 +16,25 @@ ___
 
 ___
 
-## Week 5 (2/4-2/10)]
+## Week 6 (2/11-2/17)
 
-### Saturday 8, Saturday (4 hours)
+### February 12, Tuesday (1 hour)
+- [x] Consult with Yuxin how to tackle visualizing BERT embeddings
+- [x] Read about the [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) and more about [BERT](https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
+
+### February 11, Monday (2.5 hours)
+- [x] Work with Andrew to get TensorFlow and TensorFlow-hub set up on AWS EC2
+- [x] Successfully run some test code for spam detection classifier
+- [x] Briefly look into how we can use this for BERT
+
+## Week 5 (2/4-2/10)
+
+### February 9, Saturday (4 hours)
 - [x] Read about different types of [word embedding models](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec) and the [attention mechanism](https://skymind.ai/wiki/attention-mechanism-memory-network)
 - [x] Learn how to use AWS servers
 - [x] Spent a lot of time trying to run [test code](http://hunterheidenreich.com/blog/elmo-word-vectors-in-keras/) on local machine and on AWS machine -- fixed some issues from yesterday but new tensorflow problems are still cropping up
 
-### February 7, Friday (3 hours)
+### February 8, Friday (3 hours)
 - [x] Attend ERSP meeting
 - [x] 1-on-1 with May
 - [x] Tried running [code](https://github.com/google-research/bert) for BERT, still running into issues with packages -- will continue to look into this
@@ -32,7 +43,7 @@ ___
 
 ![Week 5_ERSP](https://user-images.githubusercontent.com/36688734/52473520-d903f400-2b4a-11e9-85aa-a222728d54c7.png)
 
-### February 6, Thursday (5 hours)
+### February 7, Thursday (5 hours)
 - [x] Read [Google's blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) and [Medium article](https://towardsdatascience.com/how-bert-leverage-attention-mechanism-and-transformer-to-learn-word-contextual-relations-5bbee1b6dbdb) on BERT
 - [x] Sift through SQuAD 2.0 and 1.1 [dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 - [x] Watch lecture on [recurrent neural networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
