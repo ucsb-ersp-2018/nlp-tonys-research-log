@@ -27,6 +27,11 @@ ___
 - [x] Successfully run some test code for spam detection classifier
 - [x] Briefly look into how we can use this for BERT
 
+From Google's Blog on the Transformer
+> More specifically, to compute the next representation for a given word - “bank” for example - the Transformer compares it to every other word in the sentence. The result of these comparisons is an attention score for every other word in the sentence. These attention scores determine how much each of the other words should contribute to the next representation of “bank”. In the example, the disambiguating “river” could receive a high attention score when computing a new representation for “bank”. The attention scores are then used as weights for a weighted average of all words’ representations which is fed into a fully-connected network to generate a new representation for “bank”, reflecting that the sentence is talking about a river bank... Beyond computational performance and higher accuracy, another intriguing aspect of the Transformer is that we can visualize what other parts of a sentence the network attends to when processing or translating a given word, thus gaining insights into how information travels through the network.
+
+![Transformer](https://user-images.githubusercontent.com/36688734/52675904-21ba0500-2edd-11e9-97c4-0a5cb29ff997.png)
+
 ## Week 5 (2/4-2/10)
 
 ### February 9, Saturday (4 hours)
