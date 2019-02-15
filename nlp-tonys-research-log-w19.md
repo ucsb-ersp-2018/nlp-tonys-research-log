@@ -18,9 +18,26 @@ ___
 
 ## Week 6 (2/11-2/17)
 
-### February 12, Tuesday (1 hour)
+### February 14, Thursday (7 hours)
+- [x] Andrew was able to set up a virtual server following the instructions on [Bert as a Service](https://github.com/hanxiao/bert-as-service)
+- [x] Created a bunch of scripts to try and test for gender bias, occupation.py seems like the one with the most promising results
+
+How occupation.py works
+ * I found that BERT outputs sentence embeddings, which I believe should represent the semantic representation of a sentence
+   * Seems similar to Google's [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), potential room for future direction
+ * I take sentence pairs such as "she is a doctor", "he is a doctor" and compare cosine similarity between the two sentences
+   * I also replace the occupation "doctor" with 30 total occupations from three categories (10 in each category): female-biased, male-biased, and gender neutral occupations
+   * Theoretically, for any given sentence, the cosine similarity should be decently high because the only differences between the two sentences are "she" vs "he"
+   * However, I hypothesized that cosine similarity will be lower for sentences with gender-biased occupations compared to sentences with gender-neutral ones because if BERT is responsive to gender bias, there would not be much of a difference between "she is a friend" and "he is a friend"
+
+### February 13, Wednesday (1 hour)
+- [x] Reinstalled Anaconda and Jupyter to try and run programs on local machine
+- [x] Look into [Bert as a Service](https://github.com/hanxiao/bert-as-service) -- it seems like a promising avenue to finally be able to work with BERT
+
+### February 12, Tuesday (2.5 hour)
 - [x] Consult with Yuxin how to tackle visualizing BERT embeddings
 - [x] Read about the [Transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) and more about [BERT](https://www.kdnuggets.com/2018/12/bert-sota-nlp-model-explained.html)
+- [x] Tried to run Yuxin's code to set up BERT, but had environment issues
 
 ### February 11, Monday (2.5 hours)
 - [x] Work with Andrew to get TensorFlow and TensorFlow-hub set up on AWS EC2
