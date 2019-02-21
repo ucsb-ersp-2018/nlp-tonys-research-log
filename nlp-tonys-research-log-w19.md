@@ -18,6 +18,27 @@ ___
 
 ## Week 6 (2/11-2/17)
 
+### February 15, Friday (3.5 hours)
+- [x] Meet with William, May and team -- [meeting outputs](https://docs.google.com/document/d/1butKQCg62in1NO2MQmuOrAq32IE93FU_yglA2zW3J1o/edit?usp=sharing)
+- [x] Continue working on occupation.py and its variants and get results
+
+Below are the results from occupation.py -- green pluses represent gender neutral occupations, red circles represent female-biased occupations, blue circles represent male-biased occupations
+x-axis measures cosine similarity
+
+Results generally follow my hypothesis that gender-neutral occupations lead to higher cosine similarity.
+
+![occupation.py](https://user-images.githubusercontent.com/36688734/53152649-f5e8f000-356a-11e9-8076-67ca9bad5bb1.png)
+
+I also tried to control for sentence length affecting gender bias by extending sentence length while maintaining mostly the same semantic meaning. The base sentence for occupation_longer.py is "she / he aspires to be ___ in the future"
+
+Results are more concentrated in this one as all occupations have high cosine similarity (scale in graph is from 0.8 to 1). This suggests that the sentence length / phrasing does affect cosine similarity, at least to some degree. Perhaps it's because there are more words in common
+
+![occupation_longer.py](https://user-images.githubusercontent.com/36688734/53152768-4fe9b580-356b-11e9-8d7e-ffa4de51615a.png)
+
+Also considered shorter sentences with only 2 words but it doesn't produce meaningful results as cosine similarity is only -1 or 1 (the circles and pluses are all stacked on top of each other)
+
+![occupation_shorter](https://user-images.githubusercontent.com/36688734/53153316-d5219a00-356c-11e9-8207-77777128f45b.png)
+
 ### February 14, Thursday (7 hours)
 - [x] Andrew was able to set up a virtual server following the instructions on [Bert as a Service](https://github.com/hanxiao/bert-as-service)
 - [x] Created a bunch of scripts to try and test for gender bias, occupation.py seems like the one with the most promising results
@@ -29,6 +50,7 @@ How occupation.py works
    * I also replace the occupation "doctor" with 30 total occupations from three categories (10 in each category): female-biased, male-biased, and gender neutral occupations
    * Theoretically, for any given sentence, the cosine similarity should be decently high because the only differences between the two sentences are "she" vs "he"
    * However, I hypothesized that cosine similarity will be lower for sentences with gender-biased occupations compared to sentences with gender-neutral ones because if BERT is responsive to gender bias, there would not be much of a difference between "she is a friend" and "he is a friend"
+
 
 ### February 13, Wednesday (1 hour)
 - [x] Reinstalled Anaconda and Jupyter to try and run programs on local machine
