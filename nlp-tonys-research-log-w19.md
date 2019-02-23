@@ -16,8 +16,11 @@ ___
 
 ___
 
+
 ## Week 7 (2/18-2/24)
-### February 20, Friday (4.5 hours)
+### February 23, Saturday
+
+### February 22, Friday (4.5 hours)
 - [x] Meet with William, May, and team to discuss results and future directions
 - [x] Discuss with team potential strategies for identifying bias in OpenIE graph extractions
 - [x] Rejected from NAACL -- almost had it though! William said that we were borderline acceptance and that around only 12% of the papers from his lab were accepted. May also told us to keep our chin up. 
@@ -36,7 +39,7 @@ We can use this to identify bias in many documents, which can be useful for futu
 
 ![Week 7 ERSP](https://user-images.githubusercontent.com/36688734/53280121-935b3580-36cb-11e9-8a1f-0cbbf300b125.png)
 
-### February 19, Thursday (6.5 hours)
+### February 21, Thursday (6.5 hours)
 - [x] Meet with Yuxin to discuss multi-head attention in BERT
 - [x] Discovered some extent of gender bias via the BERT visualization tool, but not fully conclusive evidence
 - [x] Read Jay Alammar's blog on [encoders](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) and Lillian Weng's post about [attention mechanisms](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
@@ -59,12 +62,12 @@ I notice a general trend in which data points seem to form a circle with male da
 I got inspiration from the [Deep Learning Book](https://www.deeplearningbook.org/) for a method to easily classify these points using polar coordinates as opposed to cartesian coordinates. Perhaps this can pave a way for debiasing in the future.
 ![polar coordinates](https://user-images.githubusercontent.com/36688734/53280076-3f505100-36cb-11e9-8e43-01eee62ee5cd.png)
 
-### February 18, Tuesday (2.5 hours)
+### February 19, Tuesday (2.5 hours)
 - [x] Review and reread [BERT paper](https://arxiv.org/pdf/1810.04805.pdf)
 - [x] Go over [BERT as a service] again, look into how we might be able to utilize word embeddings
 - [x] Learn more about [tSNE] for dimensionality reduction
 
-### February 17, Monday (1 hour)
+### February 18, Monday (1 hour)
 - [x] Read more about [deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
 - [x] Explain how to use AWS EC2 to Yuxin
 
