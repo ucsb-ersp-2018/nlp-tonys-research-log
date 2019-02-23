@@ -16,11 +16,85 @@ ___
 
 ___
 
+## Week 7 (2/18-2/24)
+### February 20, Friday (4.5 hours)
+- [x] Meet with William, May, and team to discuss results and future directions
+- [x] Discuss with team potential strategies for identifying bias in OpenIE graph extractions
+- [x] Rejected from NAACL -- almost had it though! William said that we were borderline acceptance and that around only 12% of the papers from his lab were accepted. May also told us to keep our chin up. 
+
+William believes that there is potential for a short 4-page paper that we can submit to ACL by March 4. In his opinion, graph extractions with OpenIE seem to be the most promising idea because this is a relatively novel direction. Conversely, BERT, although state-of-the-art, would attract more competition especially for the topic word embeddings.
+
+Since graph extraction is now our most promising direction, we came up with two main methods for gender bias identification:
+1. Gender-swapping graph
+  * We plan to gender-swap all he and she pronouns in the 30,000ish triples. When we visualize the graph, only the root nodes (he and she) should change. This is because if OpenIE is unbiased, it will only look at sentence structure to form triples as opposed to semantic meaning of words, which can introduce bias. 
+  * Replacing he and she and vice versa will not make an impact on sentence structure, so all the occupations that were previously associated with "he" should all be associated with "she" after gender-swapping.
+  * If there is bias, we can measure the degree to which the "occupation tree" has changed for each gender to quantitatively analyze bias.
+2. Identifying bias in datasets
+  * It is difficult to analyze bias directly in the dataset without verifying that OpenIE is unbiased because it becomes difficult to see whether the bias is from the dataset or OpenIE.
+  * If we find that OpenIE is unbiased, we can say that a large number of the associations "male physicians", for example, is actually from the dataset and not because OpenIE is making incorrect triples.
+We can use this to identify bias in many documents, which can be useful for future researchers if they want to better understand their dataset.
+
+![Week 7 ERSP](https://user-images.githubusercontent.com/36688734/53280121-935b3580-36cb-11e9-8a1f-0cbbf300b125.png)
+
+### February 19, Thursday (6.5 hours)
+- [x] Meet with Yuxin to discuss multi-head attention in BERT
+- [x] Discovered some extent of gender bias via the BERT visualization tool, but not fully conclusive evidence
+- [x] Read Jay Alammar's blog on [encoders](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) and Lillian Weng's post about [attention mechanisms](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+- [x] Combine the resources I went over to create a script that would extract and plot contextualized word embeddings
+- [x] Used tSNE to reduce the 758-dimensional word embedding vectors to two dimensions
+
+Here are the results:
+
+Base form
+![embedding_base](https://user-images.githubusercontent.com/36688734/53279876-1038e000-36c9-11e9-89d8-ce693f9838cc.png)
+
+Plotting the twenty most gender-biased occupations. Pink circles means that it is female-biased; blue circles means it is male-biased.
+![embedding_occupations](https://user-images.githubusercontent.com/36688734/53279844-c18b4600-36c8-11e9-9de4-5c143ecafb13.png)
+
+Plotting gender-biased words from two news articles. Pink circles means that the word appeared in a female-biased context; blue circles means that the word appeared in a male-biased context
+![embedding_article](https://user-images.githubusercontent.com/36688734/53279897-4b3b1380-36c9-11e9-919b-18a88a65ec63.png)
+
+I notice a general trend in which data points seem to form a circle with male datapoints on the exterior and female points on the interior. This is indicative of gender bias because in a gender-neutral system, male datapoints and female datapoints should be intertwined. 
+
+I got inspiration from the [Deep Learning Book](https://www.deeplearningbook.org/) for a method to easily classify these points using polar coordinates as opposed to cartesian coordinates. Perhaps this can pave a way for debiasing in the future.
+![polar coordinates](https://user-images.githubusercontent.com/36688734/53280076-3f505100-36cb-11e9-8e43-01eee62ee5cd.png)
+
+### February 18, Tuesday (2.5 hours)
+- [x] Review and reread [BERT paper](https://arxiv.org/pdf/1810.04805.pdf)
+- [x] Go over [BERT as a service] again, look into how we might be able to utilize word embeddings
+- [x] Learn more about [tSNE] for dimensionality reduction
+
+### February 17, Monday (1 hour)
+- [x] Read more about [deconstructing BERT](https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1)
+- [x] Explain how to use AWS EC2 to Yuxin
+
 ## Week 6 (2/11-2/17)
+
+### February 17, Sunday (2.5 hours)
+- [x] Look into the [BERT visualization tool](https://colab.research.google.com/drive/1Nlhh2vwlQdKleNMqpmLDBsAwrv_7NnrB) that William sent us
+- [x] Read about [distilling BERT](https://towardsdatascience.com/deconstructing-bert-distilling-6-patterns-from-100-million-parameters-b49113672f77) to gain a better understanding of how the tool works
+
+![BERT visualization 1](https://user-images.githubusercontent.com/36688734/53280102-79215780-36cb-11e9-8d41-263ffa82c2f8.png)
+
+![BERT visualization 2](https://user-images.githubusercontent.com/36688734/53279613-b8997500-36c6-11e9-954b-90490983ebdd.png)
 
 ### February 15, Friday (3.5 hours)
 - [x] Meet with William, May and team -- [meeting outputs](https://docs.google.com/document/d/1butKQCg62in1NO2MQmuOrAq32IE93FU_yglA2zW3J1o/edit?usp=sharing)
-- [x] Continue working on occupation.py and its variants and get results
+- [x] Continue working on occupation.py and its variants
+
+![Week 6 ERSP](https://user-images.githubusercontent.com/36688734/53279810-75d89c80-36c8-11e9-933d-9f989d9bea90.png)
+
+### February 14, Thursday (7 hours)
+- [x] Andrew was able to set up a virtual server following the instructions on [Bert as a Service](https://github.com/hanxiao/bert-as-service)
+- [x] Created a bunch of scripts to try and test for gender bias, occupation.py seems like the one with the most promising results
+
+How occupation.py works
+ * I found that BERT outputs sentence embeddings, which I believe should represent the semantic representation of a sentence
+   * Seems similar to Google's [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), potential room for future direction
+ * I take sentence pairs such as "she is a doctor", "he is a doctor" and compare cosine similarity between the two sentences
+   * I also replace the occupation "doctor" with 30 total occupations from three categories (10 in each category): female-biased, male-biased, and gender neutral occupations
+   * Theoretically, for any given sentence, the cosine similarity should be decently high because the only differences between the two sentences are "she" vs "he"
+   * However, I hypothesized that cosine similarity will be lower for sentences with gender-biased occupations compared to sentences with gender-neutral ones because if BERT is responsive to gender bias, there would not be much of a difference between "she is a friend" and "he is a friend"
 
 Below are the results from occupation.py -- green pluses represent gender neutral occupations, red circles represent female-biased occupations, blue circles represent male-biased occupations
 x-axis measures cosine similarity
@@ -38,19 +112,6 @@ Results are more concentrated in this one as all occupations have high cosine si
 Also considered shorter sentences with only 2 words but it doesn't produce meaningful results as cosine similarity is only -1 or 1 (the circles and pluses are all stacked on top of each other)
 
 ![occupation_shorter](https://user-images.githubusercontent.com/36688734/53153316-d5219a00-356c-11e9-8207-77777128f45b.png)
-
-### February 14, Thursday (7 hours)
-- [x] Andrew was able to set up a virtual server following the instructions on [Bert as a Service](https://github.com/hanxiao/bert-as-service)
-- [x] Created a bunch of scripts to try and test for gender bias, occupation.py seems like the one with the most promising results
-
-How occupation.py works
- * I found that BERT outputs sentence embeddings, which I believe should represent the semantic representation of a sentence
-   * Seems similar to Google's [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175), potential room for future direction
- * I take sentence pairs such as "she is a doctor", "he is a doctor" and compare cosine similarity between the two sentences
-   * I also replace the occupation "doctor" with 30 total occupations from three categories (10 in each category): female-biased, male-biased, and gender neutral occupations
-   * Theoretically, for any given sentence, the cosine similarity should be decently high because the only differences between the two sentences are "she" vs "he"
-   * However, I hypothesized that cosine similarity will be lower for sentences with gender-biased occupations compared to sentences with gender-neutral ones because if BERT is responsive to gender bias, there would not be much of a difference between "she is a friend" and "he is a friend"
-
 
 ### February 13, Wednesday (1 hour)
 - [x] Reinstalled Anaconda and Jupyter to try and run programs on local machine
