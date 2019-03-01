@@ -18,7 +18,34 @@ ___
 
 
 ## Week 7 (2/18-2/24)
-### February 23, Saturday
+### February 28, Thursday (2 hours)
+- [x] Review Open IE [github](https://github.com/dair-iitd/OpenIE-standalone) and go over [BONIE](http://www.cse.iitd.ac.in/~mausam/papers/acl17.pdf)
+
+### February 27, Wednesday (5 hours)
+- [x] Learn a bit of Excel / VBA / Google Sheets / Google Scripts to visualize some of our data
+- [x] Gender bias in Open IE! Especially the Stanford one: sentences that were gender-swapped from female to male had more than **4 times** the amount of relations for the same dataset for males without gender-swapping
+- [x] Read about [CALMIE](http://www.cse.iitd.ac.in/~mausam/papers/coling18.pdf)
+
+![Stanford (M)](https://user-images.githubusercontent.com/36688734/53615362-6064e600-3b92-11e9-930c-fc5808a1fb77.png)
+
+### February 25, Monday (3 hours)
+- [x] Meet with team and May to discuss things we should address for our 8-page paper and how to move forward with our 4-page one
+- [x] Look into results of gender-swapped Open IE for discrepancies in occupations; my idea is that if Open IE is unbiased, then counts of occupations with each gender should not differ
+
+### February 24, Sunday (1.5 hours)
+- [x] Look a bit into our gender-swapped Open IE results
+- [x] Read some more about [Open IE Stanford](https://nlp.stanford.edu/software/openie.html)
+
+### February 23, Saturday (2 hours)
+- [x] Learn the basics of how [Open IE 5.0 (Standalone)](https://github.com/dair-iitd/OpenIE-standalone) works
+- [x] Go over our paper from last quarter as well as reviewer comments
+
+Key Takeaways from Reviewers' Comments:
+ * Mixed reviews: one reviewer commented that our conclusion / future directions contained some "unwarranted ideas," but the other two mentioned that those were interesting points about the future direction of the field
+ * They liked how we categorize things, e.g. types of representaton bias, inference / retraining
+ * Paper was mostly comprehensive, but one person said we could look into a few other papers for additional insight
+ * We mixed up FPED / FNED a bit in section 2.2
+ * I think we need to clearly define our audience in the introduction so that the reviewers have clear expectations
 
 ### February 22, Friday (4.5 hours)
 - [x] Meet with William, May, and team to discuss results and future directions
