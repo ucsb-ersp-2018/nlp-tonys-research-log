@@ -18,14 +18,23 @@ ___
 
 
 ## Week 7 (2/18-2/24)
-### February 28, Thursday (2 hours)
+### February 28, Thursday (5 hours)
 - [x] Review Open IE [github](https://github.com/dair-iitd/OpenIE-standalone) and go over [BONIE](http://www.cse.iitd.ac.in/~mausam/papers/acl17.pdf)
+- [x] Read about OLLIE [here](https://homes.cs.washington.edu/~mausam/papers/emnlp12a.pdf) [here](https://github.com/schmmd/ollie/blob/master/README.md)
+- [x] Go over current state of both research papers
+- [x] Identify discrepancies in original text data, Open IE outputs, and our occupation gender-swapped outputs
+- [x] Continue working on visualizing data from Open IE graph extraction
+
+Results from Gender-swapping the dataset in Open IE 5.0 (Female) -- did this for Open IE 5.0 (Male), Stanford Open IE (Female), Stanford Open IE (Male) as well
+![Open IE 5.0 (F)](https://user-images.githubusercontent.com/36688734/53625279-7f29a380-3bb7-11e9-8d62-5e255dc06877.png)
+
 
 ### February 27, Wednesday (5 hours)
 - [x] Learn a bit of Excel / VBA / Google Sheets / Google Scripts to visualize some of our data
 - [x] Gender bias in Open IE! Especially the Stanford one: sentences that were gender-swapped from female to male had more than **4 times** the amount of relations for the same dataset for males without gender-swapping
 - [x] Read about [CALMIE](http://www.cse.iitd.ac.in/~mausam/papers/coling18.pdf)
 
+Example: Occupation Freqeuencies for Stanford Open IE (Male) -- did this for Stanford Open IE (Female), Open IE 5.0 (Female), and Open IE 5.0 (Male) as well
 ![Stanford (M)](https://user-images.githubusercontent.com/36688734/53615362-6064e600-3b92-11e9-930c-fc5808a1fb77.png)
 
 ### February 25, Monday (3 hours)
