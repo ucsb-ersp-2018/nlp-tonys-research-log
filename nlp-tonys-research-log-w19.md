@@ -20,7 +20,7 @@ ___
 ## Week 7 (2/18-2/24)
 ### February 28, Thursday (5 hours)
 - [x] Review Open IE [github](https://github.com/dair-iitd/OpenIE-standalone) and go over [BONIE](http://www.cse.iitd.ac.in/~mausam/papers/acl17.pdf)
-- [x] Read about OLLIE [here](https://homes.cs.washington.edu/~mausam/papers/emnlp12a.pdf) [here](https://github.com/schmmd/ollie/blob/master/README.md)
+- [x] Read about OLLIE [here](https://homes.cs.washington.edu/~mausam/papers/emnlp12a.pdf) and [here](https://github.com/schmmd/ollie/blob/master/README.md)
 - [x] Go over current state of both research papers
 - [x] Identify discrepancies in original text data, Open IE outputs, and our occupation gender-swapped outputs
 - [x] Continue working on visualizing data from Open IE graph extraction
@@ -34,8 +34,17 @@ Results from Gender-swapping the dataset in Open IE 5.0 (Female) -- did this for
 - [x] Gender bias in Open IE! Especially the Stanford one: sentences that were gender-swapped from female to male had more than **4 times** the amount of relations for the same dataset for males without gender-swapping
 - [x] Read about [CALMIE](http://www.cse.iitd.ac.in/~mausam/papers/coling18.pdf)
 
-Example: Occupation Freqeuencies for Stanford Open IE (Male) -- did this for Stanford Open IE (Female), Open IE 5.0 (Female), and Open IE 5.0 (Male) as well
-![Stanford (M)](https://user-images.githubusercontent.com/36688734/53615362-6064e600-3b92-11e9-930c-fc5808a1fb77.png)
+Occupation Freqeuencies for Open IE 5.0 (Female)
+![Open IE 5.0 (M)](https://user-images.githubusercontent.com/36688734/53615362-6064e600-3b92-11e9-930c-fc5808a1fb77.png)
+
+Occupation Frequencies for Open IE 5.0 (Male)
+![Open IE 5.0 (F)](https://user-images.githubusercontent.com/36688734/53625553-450cd180-3bb8-11e9-917c-a938961faafb.png)
+
+Occupation Frequencies for Stanford Open IE (Female)
+![Stanford (F)](https://user-images.githubusercontent.com/36688734/53625764-d3815300-3bb8-11e9-84f9-ca21cb48613e.png)
+
+Occupation Frequencies for Stanford Open IE (Male)
+![Stanford (M)](https://user-images.githubusercontent.com/36688734/53625823-fe6ba700-3bb8-11e9-9ca7-88e93cb153ad.png)
 
 ### February 25, Monday (3 hours)
 - [x] Meet with team and May to discuss things we should address for our 8-page paper and how to move forward with our 4-page one
