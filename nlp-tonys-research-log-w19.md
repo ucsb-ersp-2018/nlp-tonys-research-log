@@ -17,7 +17,29 @@ ___
 ___
 
 
-## Week 7 (2/18-2/24)
+## Week 9 (3/4-3/10)
+
+### March 4, Monday (14 hours)
+ - [x] Finish 8-page and 4-page papers!
+ - [x] What a crazy journey
+
+## Week 8 (2/25-3/3)
+
+### March 3, Sunday (6 hours)
+ - [x] Meet with Mai and Andrew to discuss statistical testing for OpenIE  
+ - [x] Read about another [gender bias evaluation testset](https://arxiv.org/abs/1810.05201)
+ - [x] Reread past papers for survey paper
+ - [x] Continue to revise 8-page and 4-page papers
+
+### March 2, Saturday (4.5 hours)
+ - [x] Read three research papers: [quantifying gender bias](https://arxiv.org/pdf/1607.03895.pdf),  [glass ceiling in NLP](http://aclweb.org/anthology/D18-1301), [differential responses to gender](https://web.stanford.edu/~jurafsky/pubs/rtgender.pdf)
+ - [x] Continue to revise both 8-page and 4-page papers
+
+### March 1, Friday (5.5 hours)
+- [x] Meet with team, William, and Mai to discuss final steps for paper 
+- [x] Make significant edits to 8-page paper
+- [x] Continue working on graphs for 4-page paper
+
 ### February 28, Thursday (5 hours)
 - [x] Review Open IE [github](https://github.com/dair-iitd/OpenIE-standalone) and go over [BONIE](http://www.cse.iitd.ac.in/~mausam/papers/acl17.pdf)
 - [x] Read about OLLIE [here](https://homes.cs.washington.edu/~mausam/papers/emnlp12a.pdf) and [here](https://github.com/schmmd/ollie/blob/master/README.md)
@@ -50,6 +72,8 @@ Gender-swapping the dataset in Open IE 5.0 (Female)
 ### February 25, Monday (3 hours)
 - [x] Meet with team and May to discuss things we should address for our 8-page paper and how to move forward with our 4-page one
 - [x] Look into results of gender-swapped Open IE for discrepancies in occupations; my idea is that if Open IE is unbiased, then counts of occupations with each gender should not differ
+
+## Week 7 (2/18-2/24)
 
 ### February 24, Sunday (1.5 hours)
 - [x] Look a bit into our gender-swapped Open IE results
