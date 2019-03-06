@@ -22,6 +22,14 @@ ___
 ### March 4, Monday (14 hours)
  - [x] Finish 8-page and 4-page papers!
  - [x] What a crazy journey
+ 
+Crown jewel from 4-page paper:
+
+![crown jewel](https://user-images.githubusercontent.com/36688734/53865578-613bb480-3fa4-11e9-9635-169149939b35.png)
+
+Relation graph:
+![relations](https://user-images.githubusercontent.com/36688734/53865676-9942f780-3fa4-11e9-8e5a-b52f089c27d4.png)
+
 
 ## Week 8 (2/25-3/3)
 
@@ -29,11 +37,12 @@ ___
  - [x] Meet with Mai and Andrew to discuss statistical testing for OpenIE  
  - [x] Read about another [gender bias evaluation testset](https://arxiv.org/abs/1810.05201)
  - [x] Reread past papers for survey paper
- - [x] Continue to revise 8-page and 4-page papers
+ - [x] Continue to make significant edits to 8-page paper
 
 ### March 2, Saturday (4.5 hours)
  - [x] Read three research papers: [quantifying gender bias](https://arxiv.org/pdf/1607.03895.pdf),  [glass ceiling in NLP](http://aclweb.org/anthology/D18-1301), [differential responses to gender](https://web.stanford.edu/~jurafsky/pubs/rtgender.pdf)
- - [x] Continue to revise both 8-page and 4-page papers
+ - [x] Continue to revise both 8-page paper
+ - [x] Make suggestions to 4-page paper
 
 ### March 1, Friday (5.5 hours)
 - [x] Meet with team, William, and Mai to discuss final steps for paper 
