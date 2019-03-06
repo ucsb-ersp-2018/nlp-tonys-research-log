@@ -27,9 +27,6 @@ Crown jewel from 4-page paper:
 
 ![crown jewel](https://user-images.githubusercontent.com/36688734/53865578-613bb480-3fa4-11e9-9635-169149939b35.png)
 
-Relation graph:
-![relations](https://user-images.githubusercontent.com/36688734/53865676-9942f780-3fa4-11e9-8e5a-b52f089c27d4.png)
-
 
 ## Week 8 (2/25-3/3)
 
